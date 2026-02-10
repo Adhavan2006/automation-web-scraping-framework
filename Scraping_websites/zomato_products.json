@@ -1,0 +1,3832 @@
+[
+    {
+        "restuarant_name": "Geetham Veg Restaurant",
+        "cuisine": "South Indian, North Indian, Oriental",
+        "rating": "4.3",
+        "delivery_time": "29 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/geetham-veg-restaurant-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "KFC",
+        "cuisine": "30% OFF",
+        "rating": "3.7",
+        "delivery_time": "38 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/kfc-2-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Shree Mithai",
+        "cuisine": "30% OFF",
+        "rating": "4.5",
+        "delivery_time": "41 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/shree-mithai-chetpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "SS Hyderabad Biryani",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "27 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ss-hyderabad-biryani-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Domino's Pizza",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "23 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/dominos-pizza-1-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Nandhana Palace",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "33 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/nandhana-palace-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Namma Veedu Vasanta Bhavan",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "26 min",
+        "cost": "\u20b9350 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/namma-veedu-vasanta-bhavan-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mirchi Express",
+        "cuisine": "Flat 20% OFF",
+        "rating": "4.1",
+        "delivery_time": "31 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mirchi-express-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Leo's Cafe",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "23 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/leos-cafe-1-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Pizza Hut",
+        "cuisine": "Flat 20% OFF",
+        "rating": "3.9",
+        "delivery_time": "37 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/pizza-hut-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "McDonald's",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "40 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mcdonalds-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Shiva Sagar",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "41 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-shiva-sagar-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "WOW! Momo",
+        "cuisine": "Flat 30% OFF",
+        "rating": "4.0",
+        "delivery_time": "19 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/wow-momo-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mount Road Bilal - Kebabs And Biryani",
+        "cuisine": "Biryani, Kebab, North Indian, South Indian, Mughlai, Desserts, Chinese",
+        "rating": "4.3",
+        "delivery_time": "35 min",
+        "cost": "\u20b9350 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mount-road-bilal-kebabs-and-biryani-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Basheer Bai Biriyani",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.9",
+        "delivery_time": "27 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/basheer-bai-biriyani-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Khaja Empire",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.9",
+        "delivery_time": "20 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-khaja-empire-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Symphony",
+        "cuisine": "Flat 20% OFF",
+        "rating": "4.3",
+        "delivery_time": "25 min",
+        "cost": "\u20b9750 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/symphony-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sangeetha Veg Restaurant - Gandhi Irwin Road",
+        "cuisine": "30% OFF",
+        "rating": "4.5",
+        "delivery_time": "25 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sangeetha-veg-restaurant-gandhi-irwin-road-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Ambaram Fast Food",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.4",
+        "delivery_time": "26 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ambaram-fast-food-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Buhari Hotel",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "18 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/buhari-hotel-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "FB Cakes",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "24 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/fb-cakes-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Wendy's Burgers",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.7",
+        "delivery_time": "32 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/wendys-burgers-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Belgian Waffle Co.",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "43 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-belgian-waffle-co-sowcarpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Anjappar",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "33 min",
+        "cost": "\u20b9500 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/anjappar-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Babal Da Punjabi Dabha",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "29 min",
+        "cost": "\u20b9500 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/babal-da-punjabi-dabha-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Oye Hoye",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "34 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/oye-hoye-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "NORTH INDIAN & BENGAIL PERAL RESTAURANT",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "40 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/north-indian-bengail-peral-restaurant-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Al Faham",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "39 min",
+        "cost": "\u20b9300 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/al-faham-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Oven Story Pizza",
+        "cuisine": "Flat 25% OFF",
+        "rating": "4.0",
+        "delivery_time": "30 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/oven-story-pizza-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Saravana Bhavan",
+        "cuisine": "30% OFF",
+        "rating": "3.9",
+        "delivery_time": "31 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-saravana-bhavan-anna-salai/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sweet Truth - Cake And Desserts",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "29 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sweet-truth-cake-and-desserts-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Lunchbox - Meals & Thalis",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "29 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/lunchbox-meals-thalis-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Paramount",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "33 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-paramount-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "EZ Bites",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.8",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ez-bites-1-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Indian Grill",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "29 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-indian-grill-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Liza Restaurant",
+        "cuisine": "\u20b9100 OFF",
+        "rating": "4.2",
+        "delivery_time": "39 min",
+        "cost": "\u20b9350 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/liza-restaurant-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Dindigul Thalappakatti \u2014 Since 1957",
+        "cuisine": "Flat 10% OFF",
+        "rating": "4.1",
+        "delivery_time": "35 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/dindigul-thalappakatti-since-1957-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Ambur Star Briyani",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "46 min",
+        "cost": "\u20b9500 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ambur-star-briyani-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Ganga Sweets",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "25 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ganga-sweets-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Chai Kings",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "34 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/chai-kings-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Red Box",
+        "cuisine": "Flat 20% OFF",
+        "rating": "4.1",
+        "delivery_time": "37 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-red-box-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Faasos - Wraps, Rolls & Shawarma",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "30 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/faasos-wraps-rolls-shawarma-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "CK's Bakery",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.6",
+        "delivery_time": "26 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/cks-bakery-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Theobroma",
+        "cuisine": "\u20b9200 OFF",
+        "rating": "4.3",
+        "delivery_time": "34 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/theobroma-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "California Burrito",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "51 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/california-burrito-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Subway",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "40 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/subway-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Chai Waale",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.6",
+        "delivery_time": "37 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/chai-waale-1-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Pizza Project by Oven Story",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "34 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-pizza-project-by-oven-story-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Biryani Life",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "29 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-biryani-life-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Palmshore",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "32 min",
+        "cost": "\u20b9600 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/palmshore-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "ibaco",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.5",
+        "delivery_time": "36 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ibaco-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Thalaiva Biryani",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.9",
+        "delivery_time": "31 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/thalaiva-biryani-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "McRennett",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "28 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mcrennett-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hot Chips",
+        "cuisine": "30% OFF",
+        "rating": "4.7",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hot-chips-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Creams",
+        "cuisine": "Flat 10% OFF",
+        "rating": "4.2",
+        "delivery_time": "32 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-creams-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Roll Baby Roll",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "41 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/roll-baby-roll-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Kombozz By Thalappakatti",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "34 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/kombozz-by-thalappakatti-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Dabba & Co",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "30 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/dabba-co-2-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Kakada Ramprasad",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "32 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/kakada-ramprasad-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Shawarmajaan",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "33 min",
+        "cost": "\u20b940 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/shawarmajaan-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Murugan Idli Shop",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "18 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/murugan-idli-shop-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hot Breads",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "37 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hot-breads-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sri Krishna Sweets",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "33 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sri-krishna-sweets-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Writer's Cafe",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "36 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/writers-cafe-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Madras Coffee House",
+        "cuisine": "30% OFF",
+        "rating": "4.5",
+        "delivery_time": "40 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/madras-coffee-house-2-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "BurgerMan",
+        "cuisine": "\u20b9150 OFF",
+        "rating": "4.0",
+        "delivery_time": "42 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/burgerman-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Good Bowl",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "29 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-good-bowl-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Keventers - Milkshakes & Desserts",
+        "cuisine": "30% OFF",
+        "rating": "3.7",
+        "delivery_time": "39 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/keventers-milkshakes-desserts-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Behrouz Biryani",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.9",
+        "delivery_time": "33 min",
+        "cost": "\u20b9300 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/behrouz-biryani-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Firangi Bake",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "32 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/firangi-bake-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "RNR Biryani - Taste Of 1953",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "34 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/rnr-biryani-taste-of-1953-st-thomas-mount/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Indian Snack House",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "27 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/indian-snack-house-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Brownie Heaven",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "36 min",
+        "cost": "\u20b9300 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/brownie-heaven-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Delhi Malai Chaap",
+        "cuisine": "30% OFF",
+        "rating": "3.9",
+        "delivery_time": "35 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/delhi-malai-chaap-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "99 Square Pizza",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "33 min",
+        "cost": "\u20b940 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/99-square-pizza-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Lassi Shop",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "40 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/lassi-shop-1-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Ratna Cafe",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "38 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ratna-cafe-1-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Faasos Signature Wraps & Rolls",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.7",
+        "delivery_time": "42 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/faasos-signature-wraps-rolls-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Firdouse",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "37 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/firdouse-1-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Havmor Icecream",
+        "cuisine": "30% OFF",
+        "rating": "4.5",
+        "delivery_time": "33 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/havmor-icecream-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Tibb's Frankie - Serving Rolls Since 1969",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.8",
+        "delivery_time": "25 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/tibbs-frankie-serving-rolls-since-1969-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Honest bowl",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "29 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/honest-bowl-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Bikanervala",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "35 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/bikanervala-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Fusilli Reasons",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "33 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/fusilli-reasons-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Starbucks Coffee",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "42 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/starbucks-coffee-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Bakers Spring",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "37 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/bakers-spring-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Waf Bites",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "36 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/waf-bites-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Delhi Tandoori Chaap",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "41 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/delhi-tandoori-chaap-sowcarpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Farook",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "34 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-farook-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hungsters",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "38 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hungsters-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Makhani Darbar",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.3",
+        "delivery_time": "30 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/makhani-darbar-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Zahoor Briyani & Fast Food Centre",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "30 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/zahoor-briyani-fast-food-centre-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Buhari Vintage Hotel",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "34 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/buhari-vintage-hotel-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Udipi Hotel Sudha",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "28 min",
+        "cost": "\u20b9300 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/udipi-hotel-sudha-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Guest Hotel",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "30 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/guest-hotel-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "FB Sweets",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "39 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/fb-sweets-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Old Madras Baking Company",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "44 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/old-madras-baking-company-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Barbeque Nation",
+        "cuisine": "30% OFF",
+        "rating": "3.9",
+        "delivery_time": "44 min",
+        "cost": "\u20b9650 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/barbeque-nation-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "NOTO - Ice Creams & Desserts",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.7",
+        "delivery_time": "28 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/noto-ice-creams-desserts-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "MilkyWay",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "39 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/milkyway-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Palm Jumeira",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "40 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/palm-jumeira-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Coffee Shastra",
+        "cuisine": "Flat 10% OFF",
+        "rating": "3.8",
+        "delivery_time": "39 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/coffee-shastra-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sri Vaishnavaa's Chat Shop",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "32 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sri-vaishnavaas-chat-shop-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Momo Kraft",
+        "cuisine": "Flat 30% OFF",
+        "rating": "4.0",
+        "delivery_time": "34 min",
+        "cost": "for one",
+        "restuarant_link": "https://www.zomato.com/chennai/momo-kraft-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Bombaysthan",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "35 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/bombaysthan-1-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mathsya Egmore",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "32 min",
+        "cost": "\u20b9500 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mathsya-egmore-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Tiffin Shastra",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "38 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/tiffin-shastra-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "City Square Cafeteria",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "35 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/city-square-cafeteria-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Chennai Woodlands",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "30 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/chennai-woodlands-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Fruit Shop On Greams Road",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "28 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/fruit-shop-on-greams-road-1-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "SSD Meat World And Restaurant",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "30 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ssd-meat-world-and-restaurant-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Veg Meals By LunchBox",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "39 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/veg-meals-by-lunchbox-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Chaap Master",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "31 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/chaap-master-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Amadora Gourmet Ice Cream & Sorbet",
+        "cuisine": "30% OFF",
+        "rating": "4.6",
+        "delivery_time": "44 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/amadora-gourmet-ice-cream-sorbet-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Kovilpatti Murukku Kadai",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9350 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/kovilpatti-murukku-kadai-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Darbar",
+        "cuisine": "30% OFF",
+        "rating": "3.7",
+        "delivery_time": "36 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/darbar-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Veg Darbar by Behrouz Biryani",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "37 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/veg-darbar-by-behrouz-biryani-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Nithya Amirtham Sweets",
+        "cuisine": "Beverages, Desserts",
+        "rating": "4.5",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/nithya-amirtham-sweets-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sri Keshav Chaats",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "37 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sri-keshav-chaats-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Juice Box",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "39 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/juice-box-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Little Italy",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "42 min",
+        "cost": "\u20b9450 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/little-italy-1-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Classic Malaysian Parrota",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "37 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/classic-malaysian-parrota-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Fooperis",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "26 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/fooperis-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Abid's",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "31 min",
+        "cost": "\u20b9700 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/abids-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Rekha Mithai",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "37 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/rekha-mithai-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Riyas Biriyani",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "28 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/riyas-biriyani-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "New Moghal Briyani & Fast Food",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "37 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/new-moghal-briyani-fast-food-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Darbar Kalyana Biryani",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "34 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/darbar-kalyana-biryani-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Cake Square - Pulianthope",
+        "cuisine": "30% OFF",
+        "rating": "3.5",
+        "delivery_time": "41 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/cake-square-pulianthope-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Third Wave Coffee",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "36 min",
+        "cost": "\u20b9350 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/third-wave-coffee-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "La Pizza Loca",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "35 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/la-pizza-loca-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Balaji Sandwich - Alsa Mall",
+        "cuisine": "Flat 10% OFF",
+        "rating": "4.1",
+        "delivery_time": "33 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/balaji-sandwich-alsa-mall-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sandy's Chocolate Laboratory",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "43 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sandys-chocolate-laboratory-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Nellai Darbar",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "26 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/nellai-darbar-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "WOW! Kulfi",
+        "cuisine": "Flat 30% OFF",
+        "rating": "3.9",
+        "delivery_time": "22 min",
+        "cost": "for one",
+        "restuarant_link": "https://www.zomato.com/chennai/wow-kulfi-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Dum Safar Biryani",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.8",
+        "delivery_time": "45 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/dum-safar-biryani-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Nxtdoor",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "25 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/nxtdoor-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Beyond Loaf",
+        "cuisine": "30% OFF",
+        "rating": "4.5",
+        "delivery_time": "38 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/beyond-loaf-chetpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Ashoka - Abhinandan",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "31 min",
+        "cost": "\u20b9300 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-ashoka-abhinandan-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mahalaxmi Hot And Cool",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "23 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mahalaxmi-hot-and-cool-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Zam Zam Fast Food",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "30 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/zam-zam-fast-food-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Apple Residency",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "34 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/apple-residency-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Nooj Sweets And Bakehouse",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "31 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/nooj-sweets-and-bakehouse-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "UBQ-Meals,Thalis & Bowls",
+        "cuisine": "30% OFF",
+        "rating": "3.9",
+        "delivery_time": "44 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ubq-meals-thalis-bowls-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Keventers Ice Cream",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "41 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/keventers-ice-cream-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "DOU",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "45 min",
+        "cost": "\u20b9600 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/dou-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel V Chicken",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "36 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-v-chicken-anna-salai/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Ajanabi - Fountain Plaza - Since 1973",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "36 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ajanabi-fountain-plaza-since-1973-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Manohari Sweets And Chat",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "42 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/manohari-sweets-and-chat-1-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Deccan",
+        "cuisine": "North Indian, Kerala, Chinese, Seafood",
+        "rating": "4.1",
+        "delivery_time": "24 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-deccan-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Lassi Junction",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "25 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/lassi-junction-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Keifer",
+        "cuisine": "30% OFF",
+        "rating": "3.5",
+        "delivery_time": "25 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/keifer-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Atho Kadai",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "33 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/atho-kadai-1-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "WingMan By BurgerMan",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "45 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/wingman-by-burgerman-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Waffomelt Co",
+        "cuisine": "30% OFF",
+        "rating": "3.9",
+        "delivery_time": "33 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/waffomelt-co-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Nati Raja - Donne Biryani",
+        "cuisine": "\u20b9300 OFF",
+        "rating": "2.1",
+        "delivery_time": "37 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/nati-raja-donne-biryani-anna-salai/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Thinsane Pizza by Oven Story",
+        "cuisine": "30% OFF",
+        "rating": "2.8",
+        "delivery_time": "32 min",
+        "cost": "\u20b940 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/thinsane-pizza-by-oven-story-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Filli Cafe",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "47 min",
+        "cost": "\u20b9550 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/filli-cafe-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mantras Pure Veg Restaurant",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "32 min",
+        "cost": "\u20b9550 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mantras-pure-veg-restaurant-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Batter",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "46 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/batter-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mayur Sweets Spices And Cafe",
+        "cuisine": "30% OFF",
+        "rating": "4.5",
+        "delivery_time": "40 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mayur-sweets-spices-and-cafe-chetpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Ajab Mithaai Ghar",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "44 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ajab-mithaai-ghar-sowcarpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Wraps & Rolls",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "34 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/wraps-rolls-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Zaiqa Fast Food",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "37 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/zaiqa-fast-food-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Adda Cafe & Chats",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "30 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/adda-cafe-chats-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Shree Maa Inti Devi Chat",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.6",
+        "delivery_time": "28 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/shree-maa-inti-devi-chat-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Tandoori Kitchen",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.7",
+        "delivery_time": "20 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-tandoori-kitchen-2-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Cake World",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "31 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/cake-world-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Kazim's Kebab",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.7",
+        "delivery_time": "43 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/kazims-kebab-1-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "After Hours",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.8",
+        "delivery_time": "32 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/after-hours-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Lakshmi Cafe",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.9",
+        "delivery_time": "28 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-lakshmi-cafe-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Cafe Royal",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "25 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/cafe-royal-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Cafe Stop",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "34 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/cafe-stop-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mansuk's Sweets & Snacks",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.9",
+        "delivery_time": "27 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mansuks-sweets-snacks-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Azan Feast",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "-",
+        "delivery_time": "38 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/azan-feast-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "KUP Modern Kitchen & Coffee Bar",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.4",
+        "delivery_time": "45 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/kup-modern-kitchen-coffee-bar-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Amal Fried Chicken And Wrap",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.4",
+        "delivery_time": "28 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/amal-fried-chicken-and-wrap-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "New Cauvery Restaurant",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "20 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/new-cauvery-restaurant-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Enoki",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.4",
+        "delivery_time": "25 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/enoki-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Garrison",
+        "cuisine": "Flat 10% OFF",
+        "rating": "4.1",
+        "delivery_time": "35 min",
+        "cost": "\u20b91,200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/garrison-2-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Bombay Ice Cream Co.",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "28 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/bombay-ice-cream-co-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Vimala",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "33 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-vimala-2-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Zomoz - The Momo Company",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "40 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/zomoz-the-momo-company-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "WOW! China",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.4",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/wow-china-anna-nagar-east/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Swayed Over Coffee",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.1",
+        "delivery_time": "31 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/swayed-over-coffee-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Venkateshwara Boli Stall",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.7",
+        "delivery_time": "32 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/venkateshwara-boli-stall-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "SK Bangarpet Chats",
+        "cuisine": "30% OFF",
+        "rating": "3.7",
+        "delivery_time": "30 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sk-bangarpet-chats-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mint Chat",
+        "cuisine": "30% OFF",
+        "rating": "3.4",
+        "delivery_time": "31 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mint-chat-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Acha Coffee",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "44 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/acha-coffee-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Kalyana Bhavan Biriyani",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "33 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-kalyana-bhavan-biriyani-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Madras Blend & Brews",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "27 min",
+        "cost": "\u20b9350 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/madras-blend-brews-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Bismi Foods",
+        "cuisine": "30% OFF",
+        "rating": "3.2",
+        "delivery_time": "33 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/bismi-foods-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Bull's Eye",
+        "cuisine": "30% OFF",
+        "rating": "3.5",
+        "delivery_time": "36 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/bulls-eye-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Paradise",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "27 min",
+        "cost": "\u20b9350 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-paradise-3-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Juice Pump",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "29 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/juice-pump-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Murugan Idli Shop Sweets & Snacks",
+        "cuisine": "30% OFF",
+        "rating": "-",
+        "delivery_time": "20 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/murugan-idli-shop-sweets-snacks-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Gupta Chats Center",
+        "cuisine": "30% OFF",
+        "rating": "3.5",
+        "delivery_time": "37 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/gupta-chats-center-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Raj Snacks",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "35 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/raj-snacks-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Biriyani Bhai",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "44 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/biriyani-bhai-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Goldman\u2019s Steakhouse",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "40 min",
+        "cost": "\u20b9650 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/goldmans-steakhouse-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "4 Degree",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "45 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/4-degree-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Ottoman's Baklava",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "47 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ottomans-baklava-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Taibah",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "37 min",
+        "cost": "\u20b9300 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/taibah-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Piazza Pizza By Little Italy",
+        "cuisine": "30% OFF",
+        "rating": "3.9",
+        "delivery_time": "44 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/piazza-pizza-by-little-italy-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Yaarab Kitchen",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "33 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/yaarab-kitchen-4-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Kayal Heritage",
+        "cuisine": "30% OFF",
+        "rating": "New",
+        "delivery_time": "36 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/kayal-heritage-1-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Khaas - The Elevated Indian Kitchen & Bar",
+        "cuisine": "30% OFF",
+        "rating": "3.2",
+        "delivery_time": "46 min",
+        "cost": "\u20b91,100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/khaas-the-elevated-indian-kitchen-bar-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Coffea",
+        "cuisine": "30% OFF",
+        "rating": "-",
+        "delivery_time": "42 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/coffea-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Ramesh Tiffin Center",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "37 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ramesh-tiffin-center-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Sri Krishna Prasad - Since 1963",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "42 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-sri-krishna-prasad-since-1963-sowcarpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "La Pino'z Pizza",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.4",
+        "delivery_time": "39 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/la-pinoz-pizza-1-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "SOUL By Dair",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "44 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/soul-by-dair-1-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Toscano",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "44 min",
+        "cost": "\u20b9750 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/toscano-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Crescent",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-crescent-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "ID",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "36 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/id-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Nasi And Mee",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "45 min",
+        "cost": "\u20b9600 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/nasi-and-mee-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Ibrahim Biriyani",
+        "cuisine": "30% OFF",
+        "rating": "3.9",
+        "delivery_time": "36 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ibrahim-biriyani-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "HOTEL ZAM ZAM",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "40 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-zam-zam-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Italia On The Go",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "35 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/italia-on-the-go-2-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Natural Ice Cream",
+        "cuisine": "30% OFF",
+        "rating": "4.5",
+        "delivery_time": "46 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/natural-ice-cream-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Royal Pan Palace And Chats",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/royal-pan-palace-and-chats-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Noodle Theory",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "37 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-noodle-theory-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Marlen Biryani Restaurant",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.9",
+        "delivery_time": "39 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/marlen-biryani-restaurant-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Green Box",
+        "cuisine": "Chinese, Momos, Oriental, Indo-Chinese, Thai",
+        "rating": "4.2",
+        "delivery_time": "35 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-green-box-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Ginger Garlic",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "39 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ginger-garlic-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Ajnabee Sweets",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.4",
+        "delivery_time": "35 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ajnabee-sweets-1-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "French Loaf",
+        "cuisine": "Flat 25% OFF",
+        "rating": "4.1",
+        "delivery_time": "47 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/french-loaf-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Trattoria - Italian Kitchen",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "44 min",
+        "cost": "\u20b9750 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/trattoria-italian-kitchen-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "AP Hyderabadi Irani Chai",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.4",
+        "delivery_time": "39 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ap-hyderabadi-irani-chai-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Raj Shree Chats",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "43 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/raj-shree-chats-sowcarpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "North East Kitchen",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "37 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/north-east-kitchen-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Chaska Chaat",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "33 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/chaska-chaat-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Vishwa Sagar",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "42 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-vishwa-sagar-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "New Annapurna Hotel & Restaurant",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "37 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/new-annapurna-hotel-restaurant-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Cinnamon House",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "42 min",
+        "cost": "\u20b9300 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/cinnamon-house-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mansukhlal Mithaiwala",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "40 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mansukhlal-mithaiwala-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Snack Art",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/snack-art-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "City Fast Food",
+        "cuisine": "30% OFF",
+        "rating": "3.7",
+        "delivery_time": "44 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/city-fast-food-george-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Homely Kitchen",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "40 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/homely-kitchen-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Brahmaputra",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "44 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-brahmaputra-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Fruit Bae",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "46 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/fruit-bae-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "We Fry",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "42 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/we-fry-1-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Royal Sandwich",
+        "cuisine": "Flat 10% OFF",
+        "rating": "4.2",
+        "delivery_time": "39 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/royal-sandwich-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Sangam",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "35 min",
+        "cost": "\u20b9350 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-sangam-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Chandra Cafe",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "45 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/chandra-cafe-sowcarpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Brewniverse Cafe",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/brewniverse-cafe-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Slyde by Crave Junction",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "33 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/slyde-by-crave-junction-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hot N Cool",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "48 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hot-n-cool-1-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Toscano's Crafted Cakes & Desserts",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "46 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/toscanos-crafted-cakes-desserts-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Dark Night",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "38 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-dark-night-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sanmuga Home Foods",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "40 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sanmuga-home-foods-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Rvive Cafe",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "36 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/rvive-cafe-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Freshh Cakes",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "43 min",
+        "cost": "\u20b9300 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/freshh-cakes-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Dopamine Infinity",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "39 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/dopamine-infinity-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sante Spa Cuisine",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "44 min",
+        "cost": "\u20b9650 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sante-spa-cuisine-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Poha Wala",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "45 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/poha-wala-sowcarpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Coffee? Since 1999",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "43 min",
+        "cost": "\u20b9600 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/coffee-since-1999-2-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mini Wings",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "33 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mini-wings-1-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Thirupathi Bhimas",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "40 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/thirupathi-bhimas-anna-salai/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Brown Tree",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "36 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/brown-tree-1-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sandwich Hub By Anika Foods",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "40 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sandwich-hub-by-anika-foods-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Fresh Cakes By Bakerzoh",
+        "cuisine": "Flat 20% OFF",
+        "rating": "4.7",
+        "delivery_time": "42 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/fresh-cakes-by-bakerzoh-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sowcarpet Chat Wala",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "39 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sowcarpet-chat-wala-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Indiska Magic",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "46 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/indiska-magic-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "WOW! Chicken By WOW! Momo",
+        "cuisine": "Flat 30% OFF",
+        "rating": "3.6",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/wow-chicken-by-wow-momo-anna-nagar-east/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Potful - Claypot Biryanis",
+        "cuisine": "\u20b9300 OFF",
+        "rating": "4.2",
+        "delivery_time": "43 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/potful-claypot-biryanis-shenoy-nagar/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Arabian Grills",
+        "cuisine": "30% OFF",
+        "rating": "3.7",
+        "delivery_time": "43 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/arabian-grills-anna-nagar-west/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Waffle Cart",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "60 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/waffle-cart-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Olive Garden Caterer",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "42 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/olive-garden-caterer-anna-nagar-east/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Super Soda",
+        "cuisine": "30% OFF",
+        "rating": "-",
+        "delivery_time": "42 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/super-soda-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Waffle N Brew",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "37 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/waffle-n-brew-1-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Udupi Hotel Venkateswara",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/udupi-hotel-venkateswara-anna-nagar-east/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "One Pot Chinese",
+        "cuisine": "30% OFF",
+        "rating": "3.7",
+        "delivery_time": "42 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/one-pot-chinese-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Biryani People - World Of Biryanis",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "44 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/biryani-people-world-of-biryanis-shenoy-nagar/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Aroma Pure Veg Restaurant",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "47 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/aroma-pure-veg-restaurant-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Momo Square",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "45 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/momo-square-shenoy-nagar/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Juicy Rolls",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "43 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/juicy-rolls-1-chetpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Chaat By ID",
+        "cuisine": "30% OFF",
+        "rating": "3.7",
+        "delivery_time": "37 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/chaat-by-id-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Milky Way",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "43 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/milky-way-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sri Magesh Chettinadu Hotel",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sri-magesh-chettinadu-hotel-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Kwality Wall's Ice Cream And More",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "45 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/kwality-walls-ice-cream-and-more-1-aminijikarai/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Bismi Home Kitchen",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "41 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/bismi-home-kitchen-anna-nagar-east/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Liya Caterers",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "39 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/liya-caterers-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Wholesome Bowlsome",
+        "cuisine": "\u20b9300 OFF",
+        "rating": "4.3",
+        "delivery_time": "49 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/wholesome-bowlsome-shenoy-nagar/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Karaikal Mess",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "42 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/karaikal-mess-anna-nagar-east/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Barkat Hyderabad Biriyani",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "45 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/barkat-hyderabad-biriyani-royapettah/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Annai Home Food",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "44 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/annai-home-food-12-anna-nagar-east/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mumbai Chatwala",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "34 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mumbai-chaatwala-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Entrance Cafe",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "37 min",
+        "cost": "\u20b9750 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-entrance-cafe-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Minar Biriyani",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "45 min",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/minar-biriyani-shenoy-nagar/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Delight Cake Treat",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "40 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/delight-cake-treat-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Senorita's Mexican Kitchen By Little Italy",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "44 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/senoritas-mexican-kitchen-by-little-italy-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Van Dough Cafe & Pizzeria",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "41 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/van-dough-cafe-pizzeria-1-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Seena Bhai 1977 Chat & Juices",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "44 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/seena-bhai-1977-chat-juices-sowcarpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hum Tum Foods And Beverages",
+        "cuisine": "30% OFF",
+        "rating": "3.9",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hum-tum-foods-and-beverages-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mr Brwn",
+        "cuisine": "30% OFF",
+        "rating": "New",
+        "delivery_time": "41 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mr-brwn-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hunger Square",
+        "cuisine": "30% OFF",
+        "rating": "3.6",
+        "delivery_time": "45 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hunger-square-shenoy-nagar/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Raj Sree Sweets",
+        "cuisine": "30% OFF",
+        "rating": "2.5",
+        "delivery_time": "46 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/raj-sree-sweets-sowcarpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Happy Kitchen",
+        "cuisine": "30% OFF",
+        "rating": "-",
+        "delivery_time": "43 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/happy-kitchen-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Chai Karak",
+        "cuisine": "30% OFF",
+        "rating": "-",
+        "delivery_time": "42 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/chai-karak-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Shradha Lulla Gourmet Desserts",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "43 min",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/shradha-lulla-gourmet-desserts-1-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Rice Express By Shero",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/rice-express-by-shero-2-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Crispy & Creme",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.3",
+        "delivery_time": "38 min",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/crispy-creme-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Teaman",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.4",
+        "delivery_time": "48 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/teaman-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "OX Belgian Waffle Cafe",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "42 min",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ox-belgian-waffle-cafe-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Haagen Dazs",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "47 min",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/haagen-dazs-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hotel Blue Mint",
+        "cuisine": "South Indian, Biryani, Chinese, Sandwich, Fast Food, Momos",
+        "rating": "New",
+        "delivery_time": "41 min",
+        "cost": "\u20b9300 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hotel-blue-mint-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "SS Hyderabad Biryani-Perambur Railway",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ss-hyderabad-biryani-perambur-railway-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sangeetha Veg Restaurant",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sangeetha-veg-restaurant-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Patiala House",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9350 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-patiala-house-chetpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Five Star Chicken",
+        "cuisine": "Fast Food, Burger, Rolls",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/five-star-chicken-royapuram/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Junior Kuppanna",
+        "cuisine": "Flat 15% OFF",
+        "rating": "3.3",
+        "delivery_time": "",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/junior-kuppanna-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Temp Fried Chicken",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/temp-fried-chicken-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Atti Square",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/atti-square-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Khichdi Bar",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/khichdi-bar-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Shero Home Food - Chettinad",
+        "cuisine": "Chettinad",
+        "rating": "4.1",
+        "delivery_time": "",
+        "cost": "for one",
+        "restuarant_link": "https://www.zomato.com/chennai/shero-home-food-chettinad-3-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Wangs Kitchen",
+        "cuisine": "Flat 25% OFF",
+        "rating": "3.7",
+        "delivery_time": "",
+        "cost": "\u20b9350 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/wangs-kitchen-royapettah/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "LOC Square",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.5",
+        "delivery_time": "",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/loc-square-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Dhabba Express",
+        "cuisine": "North Indian, Chinese, Fast Food",
+        "rating": "3.8",
+        "delivery_time": "",
+        "cost": "\u20b9300 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/dhabba-express-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Rasoee",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/rasoee-1-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Flower Drum",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/flower-drum-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Shyam's Bombay Halwa House",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.1",
+        "delivery_time": "",
+        "cost": "\u20b9300 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/shyams-bombay-halwa-house-sowcarpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Nei Idly Sambar",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.9",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/nei-idly-sambar-1-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "London Waffle Co.",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/london-waffle-co-1-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Cream Centre - Vegetarian Legacy Since 1958",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "",
+        "cost": "\u20b9500 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/cream-centre-vegetarian-legacy-since-1958-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Street Shawarma",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-street-shawarma-1-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Zara's Home Food",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/zaras-home-food-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Mahendran Naan Stall",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/mahendran-naan-stall-royapuram/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Chennai Fast Food",
+        "cuisine": "30% OFF",
+        "rating": "4.2",
+        "delivery_time": "",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/chennai-fast-food-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Parwani's Bombay Halwa House",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/parwanis-bombay-halwa-house-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The OG The Burger Company",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-og-the-burger-company-george-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The New Box",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-new-box-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Kabab Corner",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/kabab-corner-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Ravi Mehra's Delhi Hotel",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9450 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/ravi-mehras-delhi-hotel-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "National Lodge",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/national-lodge-1-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "AKS Kabab",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/aks-kabab-royapettah/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Celebration",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/celebration-royapettah/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "The Cascade",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/the-cascade-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Cafe Cove Garden - By The Mayflower",
+        "cuisine": "Flat 20% OFF",
+        "rating": "3.6",
+        "delivery_time": "",
+        "cost": "\u20b9500 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/cafe-cove-garden-by-the-mayflower-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Gujraj Veg Restaurant",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/gujraj-veg-restaurant-2-park-town/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "SK Burger Man",
+        "cuisine": "30% OFF",
+        "rating": "4.5",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sk-burger-man-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Malli Meena's Home Kitchen",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/malli-meenas-home-kitchen-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Little North",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "",
+        "cost": "\u20b9350 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/little-north-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Atithi Restaurant",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/atithi-restaurant-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Rangis'",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/rangis-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Town Cafe",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/town-cafe-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Buntastik",
+        "cuisine": "Desserts, Ice Cream",
+        "rating": "4.1",
+        "delivery_time": "",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/buntastik-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Pasha Burger & Kebab",
+        "cuisine": "30% OFF",
+        "rating": "3.8",
+        "delivery_time": "",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/pasha-burger-kebab-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Pranav Chats",
+        "cuisine": "30% OFF",
+        "rating": "3.4",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/pranav-chats-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Red E Drop Zone",
+        "cuisine": "Flat 10% OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/red-e-drop-zone-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Copper Chimney",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9650 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/copper-chimney-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Aroma Pantry",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/aroma-pantry-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Olive And Basil",
+        "cuisine": "Oriental, Chinese, Asian, Thai, Seafood, Desserts, Beverages",
+        "rating": "3.7",
+        "delivery_time": "",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/olive-and-basil-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Pure Veg Daal Rotti",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/pure-veg-daal-rotti-royapettah/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Aahaa Atho Booth",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/aahaa-atho-booth-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Vallalar Quality Tiffin Centre",
+        "cuisine": "30% OFF",
+        "rating": "4.1",
+        "delivery_time": "",
+        "cost": "\u20b940 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/vallalar-quality-tiffin-centre-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Best Fast Food",
+        "cuisine": "30% OFF",
+        "rating": "3.9",
+        "delivery_time": "",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/best-fast-food-1-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sree Agarwal Bhojanaalay",
+        "cuisine": "30% OFF",
+        "rating": "4.4",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sree-agarwal-bhojanaalay-sowcarpet/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Meat.Com",
+        "cuisine": "30% OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/meat-com-royapettah/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "A1 Sheek Kabab Centre",
+        "cuisine": "30% OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/a1-sheek-kabab-centre-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sundari Akka Kadai",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.4",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sundari-akka-kadai-5-triplicane/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Bombay Brasserie",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.4",
+        "delivery_time": "",
+        "cost": "\u20b9750 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/bombay-brasserie-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Cheta Butter Milk",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/cheta-butter-milk-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Night Out Corner",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/night-out-corner-1-vepery/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "China Town",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.5",
+        "delivery_time": "",
+        "cost": "\u20b9600 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/china-town-1-egmore/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Meat And Eat",
+        "cuisine": "Flat 20% OFF",
+        "rating": "3.6",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/meat-and-eat-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Seven Eleven Cafe & Restaurant",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "-",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/seven-eleven-cafe-restaurant-1-thousand-lights/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "O.L.E",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/o-l-e-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sharief Bhai Biryani",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.9",
+        "delivery_time": "",
+        "cost": "\u20b9350 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sharief-bhai-biryani-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Roz Shawarma & Rolls",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.6",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/roz-shawarma-rolls-1-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Kaimanam",
+        "cuisine": "Flat 10% OFF",
+        "rating": "4.1",
+        "delivery_time": "",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/kaimanam-gopalapuram/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Anu's Punjabi Dhaba",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9500 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/anus-punjabi-dhaba-gopalapuram/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Alibaba Shawarma and 40 Dishes",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.8",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/alibaba-shawarma-and-40-dishes-choolaimedu/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Madurai Pandian Mess",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9150 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/madurai-pandian-mess-royapettah/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Yum Me Too",
+        "cuisine": "North Indian, Kebab, Burger, Wraps, Fast Food, Beverages",
+        "rating": "3.6",
+        "delivery_time": "",
+        "cost": "\u20b9250 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/yum-me-too-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Lazy Leopard",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.4",
+        "delivery_time": "",
+        "cost": "\u20b9600 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/lazy-leopard-gopalapuram/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Sri Anna Poorani Hotel & Catering",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.9",
+        "delivery_time": "",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/sri-anna-poorani-hotel-catering-perambur/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Shawarma Spot",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "3.4",
+        "delivery_time": "",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/shawarma-spot-6-royapuram/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Hungry Panda",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/hungry-panda-2-nungambakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Agarwal's Desi Khana Khazana",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.5",
+        "delivery_time": "",
+        "cost": "\u20b9200 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/agarwals-desi-khana-khazana-kilpauk/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Erode Amman Mess",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.3",
+        "delivery_time": "",
+        "cost": "\u20b9300 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/erode-amman-mess-t-nagar/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "G.R Chats & Foods",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.0",
+        "delivery_time": "",
+        "cost": "\u20b9100 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/g-r-chats-foods-purasavakkam/order",
+        "image_url": "",
+        "location": "chennai"
+    },
+    {
+        "restuarant_name": "Navrang Restaurant",
+        "cuisine": "\u20b9101 OFF",
+        "rating": "4.2",
+        "delivery_time": "",
+        "cost": "\u20b9400 for one",
+        "restuarant_link": "https://www.zomato.com/chennai/navrang-restaurant-royapettah/order",
+        "image_url": "",
+        "location": "chennai"
+    }
+]

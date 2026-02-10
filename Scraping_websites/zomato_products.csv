@@ -1,0 +1,384 @@
+restuarant_name,cuisine,rating,delivery_time,cost,restuarant_link,image_url,location
+Geetham Veg Restaurant,"South Indian, North Indian, Oriental",4.3,29 min,₹400 for one,https://www.zomato.com/chennai/geetham-veg-restaurant-purasavakkam/order,,chennai
+KFC,30% OFF,3.7,38 min,₹200 for one,https://www.zomato.com/chennai/kfc-2-park-town/order,,chennai
+Shree Mithai,30% OFF,4.5,41 min,₹100 for one,https://www.zomato.com/chennai/shree-mithai-chetpet/order,,chennai
+SS Hyderabad Biryani,30% OFF,4.3,27 min,₹200 for one,https://www.zomato.com/chennai/ss-hyderabad-biryani-purasavakkam/order,,chennai
+Domino's Pizza,30% OFF,4.0,23 min,₹150 for one,https://www.zomato.com/chennai/dominos-pizza-1-perambur/order,,chennai
+Nandhana Palace,30% OFF,4.2,33 min,₹250 for one,https://www.zomato.com/chennai/nandhana-palace-triplicane/order,,chennai
+Namma Veedu Vasanta Bhavan,₹101 OFF,4.1,26 min,₹350 for one,https://www.zomato.com/chennai/namma-veedu-vasanta-bhavan-egmore/order,,chennai
+Mirchi Express,Flat 20% OFF,4.1,31 min,₹400 for one,https://www.zomato.com/chennai/mirchi-express-egmore/order,,chennai
+Leo's Cafe,₹101 OFF,4.0,23 min,₹150 for one,https://www.zomato.com/chennai/leos-cafe-1-park-town/order,,chennai
+Pizza Hut,Flat 20% OFF,3.9,37 min,₹150 for one,https://www.zomato.com/chennai/pizza-hut-triplicane/order,,chennai
+McDonald's,30% OFF,4.0,40 min,₹250 for one,https://www.zomato.com/chennai/mcdonalds-kilpauk/order,,chennai
+Hotel Shiva Sagar,₹101 OFF,4.2,41 min,₹400 for one,https://www.zomato.com/chennai/hotel-shiva-sagar-vepery/order,,chennai
+WOW! Momo,Flat 30% OFF,4.0,19 min,₹200 for one,https://www.zomato.com/chennai/wow-momo-vepery/order,,chennai
+Mount Road Bilal - Kebabs And Biryani,"Biryani, Kebab, North Indian, South Indian, Mughlai, Desserts, Chinese",4.3,35 min,₹350 for one,https://www.zomato.com/chennai/mount-road-bilal-kebabs-and-biryani-triplicane/order,,chennai
+Basheer Bai Biriyani,₹101 OFF,3.9,27 min,₹150 for one,https://www.zomato.com/chennai/basheer-bai-biriyani-egmore/order,,chennai
+Hotel Khaja Empire,₹101 OFF,3.9,20 min,₹200 for one,https://www.zomato.com/chennai/hotel-khaja-empire-park-town/order,,chennai
+Symphony,Flat 20% OFF,4.3,25 min,₹750 for one,https://www.zomato.com/chennai/symphony-egmore/order,,chennai
+Sangeetha Veg Restaurant - Gandhi Irwin Road,30% OFF,4.5,25 min,₹200 for one,https://www.zomato.com/chennai/sangeetha-veg-restaurant-gandhi-irwin-road-egmore/order,,chennai
+Ambaram Fast Food,₹101 OFF,3.4,26 min,₹100 for one,https://www.zomato.com/chennai/ambaram-fast-food-egmore/order,,chennai
+Buhari Hotel,₹101 OFF,4.1,18 min,₹400 for one,https://www.zomato.com/chennai/buhari-hotel-park-town/order,,chennai
+FB Cakes,₹101 OFF,4.2,24 min,₹150 for one,https://www.zomato.com/chennai/fb-cakes-purasavakkam/order,,chennai
+Wendy's Burgers,₹101 OFF,3.7,32 min,₹100 for one,https://www.zomato.com/chennai/wendys-burgers-1-purasavakkam/order,,chennai
+The Belgian Waffle Co.,₹101 OFF,4.1,43 min,₹200 for one,https://www.zomato.com/chennai/the-belgian-waffle-co-sowcarpet/order,,chennai
+Anjappar,₹101 OFF,4.2,33 min,₹500 for one,https://www.zomato.com/chennai/anjappar-kilpauk/order,,chennai
+Babal Da Punjabi Dabha,₹101 OFF,4.2,29 min,₹500 for one,https://www.zomato.com/chennai/babal-da-punjabi-dabha-egmore/order,,chennai
+Oye Hoye,30% OFF,4.2,34 min,₹250 for one,https://www.zomato.com/chennai/oye-hoye-kilpauk/order,,chennai
+NORTH INDIAN & BENGAIL PERAL RESTAURANT,₹101 OFF,4.1,40 min,₹400 for one,https://www.zomato.com/chennai/north-indian-bengail-peral-restaurant-park-town/order,,chennai
+Al Faham,₹101 OFF,4.0,39 min,₹300 for one,https://www.zomato.com/chennai/al-faham-vepery/order,,chennai
+Oven Story Pizza,Flat 25% OFF,4.0,30 min,₹100 for one,https://www.zomato.com/chennai/oven-story-pizza-purasavakkam/order,,chennai
+Hotel Saravana Bhavan,30% OFF,3.9,31 min,₹250 for one,https://www.zomato.com/chennai/hotel-saravana-bhavan-anna-salai/order,,chennai
+Sweet Truth - Cake And Desserts,30% OFF,4.1,29 min,₹100 for one,https://www.zomato.com/chennai/sweet-truth-cake-and-desserts-1-purasavakkam/order,,chennai
+Lunchbox - Meals & Thalis,30% OFF,4.0,29 min,₹100 for one,https://www.zomato.com/chennai/lunchbox-meals-thalis-purasavakkam/order,,chennai
+Hotel Paramount,₹101 OFF,4.3,33 min,₹250 for one,https://www.zomato.com/chennai/hotel-paramount-kilpauk/order,,chennai
+EZ Bites,₹101 OFF,3.8,,₹150 for one,https://www.zomato.com/chennai/ez-bites-1-vepery/order,,chennai
+The Indian Grill,₹101 OFF,4.0,29 min,₹100 for one,https://www.zomato.com/chennai/the-indian-grill-purasavakkam/order,,chennai
+Liza Restaurant,₹100 OFF,4.2,39 min,₹350 for one,https://www.zomato.com/chennai/liza-restaurant-vepery/order,,chennai
+Dindigul Thalappakatti — Since 1957,Flat 10% OFF,4.1,35 min,₹400 for one,https://www.zomato.com/chennai/dindigul-thalappakatti-since-1957-triplicane/order,,chennai
+Ambur Star Briyani,30% OFF,4.0,46 min,₹500 for one,https://www.zomato.com/chennai/ambur-star-briyani-park-town/order,,chennai
+Ganga Sweets,30% OFF,4.3,25 min,₹150 for one,https://www.zomato.com/chennai/ganga-sweets-1-purasavakkam/order,,chennai
+Chai Kings,30% OFF,4.1,34 min,₹150 for one,https://www.zomato.com/chennai/chai-kings-kilpauk/order,,chennai
+The Red Box,Flat 20% OFF,4.1,37 min,₹200 for one,https://www.zomato.com/chennai/the-red-box-egmore/order,,chennai
+"Faasos - Wraps, Rolls & Shawarma",₹101 OFF,4.0,30 min,₹100 for one,https://www.zomato.com/chennai/faasos-wraps-rolls-shawarma-1-purasavakkam/order,,chennai
+CK's Bakery,₹101 OFF,3.6,26 min,₹200 for one,https://www.zomato.com/chennai/cks-bakery-purasavakkam/order,,chennai
+Theobroma,₹200 OFF,4.3,34 min,₹200 for one,https://www.zomato.com/chennai/theobroma-kilpauk/order,,chennai
+California Burrito,30% OFF,4.4,51 min,₹250 for one,https://www.zomato.com/chennai/california-burrito-nungambakkam/order,,chennai
+Subway,30% OFF,4.1,40 min,₹200 for one,https://www.zomato.com/chennai/subway-kilpauk/order,,chennai
+Chai Waale,₹101 OFF,4.6,37 min,₹100 for one,https://www.zomato.com/chennai/chai-waale-1-kilpauk/order,,chennai
+The Pizza Project by Oven Story,₹101 OFF,4.1,34 min,₹100 for one,https://www.zomato.com/chennai/the-pizza-project-by-oven-story-1-purasavakkam/order,,chennai
+The Biryani Life,₹101 OFF,4.0,29 min,₹100 for one,https://www.zomato.com/chennai/the-biryani-life-1-purasavakkam/order,,chennai
+Palmshore,₹101 OFF,4.3,32 min,₹600 for one,https://www.zomato.com/chennai/palmshore-egmore/order,,chennai
+ibaco,₹101 OFF,4.5,36 min,₹150 for one,https://www.zomato.com/chennai/ibaco-kilpauk/order,,chennai
+Thalaiva Biryani,₹101 OFF,3.9,31 min,₹200 for one,https://www.zomato.com/chennai/thalaiva-biryani-1-purasavakkam/order,,chennai
+McRennett,₹101 OFF,4.3,28 min,₹200 for one,https://www.zomato.com/chennai/mcrennett-egmore/order,,chennai
+Hot Chips,30% OFF,4.7,,₹150 for one,https://www.zomato.com/chennai/hot-chips-nungambakkam/order,,chennai
+The Creams,Flat 10% OFF,4.2,32 min,₹200 for one,https://www.zomato.com/chennai/the-creams-kilpauk/order,,chennai
+Roll Baby Roll,30% OFF,4.3,41 min,₹200 for one,https://www.zomato.com/chennai/roll-baby-roll-thousand-lights/order,,chennai
+Kombozz By Thalappakatti,₹101 OFF,4.1,34 min,₹100 for one,https://www.zomato.com/chennai/kombozz-by-thalappakatti-triplicane/order,,chennai
+Dabba & Co,₹101 OFF,4.0,30 min,₹100 for one,https://www.zomato.com/chennai/dabba-co-2-purasavakkam/order,,chennai
+Kakada Ramprasad,30% OFF,4.4,32 min,₹200 for one,https://www.zomato.com/chennai/kakada-ramprasad-kilpauk/order,,chennai
+Shawarmajaan,₹101 OFF,4.1,33 min,₹40 for one,https://www.zomato.com/chennai/shawarmajaan-purasavakkam/order,,chennai
+Murugan Idli Shop,30% OFF,4.2,18 min,₹100 for one,https://www.zomato.com/chennai/murugan-idli-shop-park-town/order,,chennai
+Hot Breads,30% OFF,4.4,37 min,₹200 for one,https://www.zomato.com/chennai/hot-breads-kilpauk/order,,chennai
+Sri Krishna Sweets,30% OFF,4.3,33 min,₹150 for one,https://www.zomato.com/chennai/sri-krishna-sweets-1-purasavakkam/order,,chennai
+Writer's Cafe,₹101 OFF,4.1,36 min,₹250 for one,https://www.zomato.com/chennai/writers-cafe-egmore/order,,chennai
+Madras Coffee House,30% OFF,4.5,40 min,₹100 for one,https://www.zomato.com/chennai/madras-coffee-house-2-nungambakkam/order,,chennai
+BurgerMan,₹150 OFF,4.0,42 min,₹200 for one,https://www.zomato.com/chennai/burgerman-thousand-lights/order,,chennai
+The Good Bowl,₹101 OFF,4.0,29 min,₹100 for one,https://www.zomato.com/chennai/the-good-bowl-1-purasavakkam/order,,chennai
+Keventers - Milkshakes & Desserts,30% OFF,3.7,39 min,₹200 for one,https://www.zomato.com/chennai/keventers-milkshakes-desserts-kilpauk/order,,chennai
+Behrouz Biryani,₹101 OFF,3.9,33 min,₹300 for one,https://www.zomato.com/chennai/behrouz-biryani-1-purasavakkam/order,,chennai
+Firangi Bake,₹101 OFF,4.0,32 min,₹100 for one,https://www.zomato.com/chennai/firangi-bake-1-purasavakkam/order,,chennai
+RNR Biryani - Taste Of 1953,₹101 OFF,4.2,34 min,₹100 for one,https://www.zomato.com/chennai/rnr-biryani-taste-of-1953-st-thomas-mount/order,,chennai
+Indian Snack House,₹101 OFF,4.3,27 min,₹100 for one,https://www.zomato.com/chennai/indian-snack-house-park-town/order,,chennai
+Brownie Heaven,₹101 OFF,4.3,36 min,₹300 for one,https://www.zomato.com/chennai/brownie-heaven-egmore/order,,chennai
+Delhi Malai Chaap,30% OFF,3.9,35 min,₹100 for one,https://www.zomato.com/chennai/delhi-malai-chaap-kilpauk/order,,chennai
+99 Square Pizza,30% OFF,4.3,33 min,₹40 for one,https://www.zomato.com/chennai/99-square-pizza-purasavakkam/order,,chennai
+Lassi Shop,30% OFF,3.8,40 min,₹100 for one,https://www.zomato.com/chennai/lassi-shop-1-vepery/order,,chennai
+Ratna Cafe,₹101 OFF,4.2,38 min,₹150 for one,https://www.zomato.com/chennai/ratna-cafe-1-kilpauk/order,,chennai
+Faasos Signature Wraps & Rolls,₹101 OFF,3.7,42 min,₹100 for one,https://www.zomato.com/chennai/faasos-signature-wraps-rolls-purasavakkam/order,,chennai
+Firdouse,₹101 OFF,4.3,37 min,₹250 for one,https://www.zomato.com/chennai/firdouse-1-triplicane/order,,chennai
+Havmor Icecream,30% OFF,4.5,33 min,₹100 for one,https://www.zomato.com/chennai/havmor-icecream-purasavakkam/order,,chennai
+Tibb's Frankie - Serving Rolls Since 1969,₹101 OFF,3.8,25 min,₹100 for one,https://www.zomato.com/chennai/tibbs-frankie-serving-rolls-since-1969-purasavakkam/order,,chennai
+Honest bowl,₹101 OFF,4.2,29 min,₹200 for one,https://www.zomato.com/chennai/honest-bowl-purasavakkam/order,,chennai
+Bikanervala,₹101 OFF,4.2,35 min,₹400 for one,https://www.zomato.com/chennai/bikanervala-purasavakkam/order,,chennai
+Fusilli Reasons,₹101 OFF,4.3,33 min,₹150 for one,https://www.zomato.com/chennai/fusilli-reasons-kilpauk/order,,chennai
+Starbucks Coffee,30% OFF,4.0,42 min,₹400 for one,https://www.zomato.com/chennai/starbucks-coffee-nungambakkam/order,,chennai
+Bakers Spring,30% OFF,4.0,37 min,₹150 for one,https://www.zomato.com/chennai/bakers-spring-kilpauk/order,,chennai
+Waf Bites,₹101 OFF,4.2,36 min,₹150 for one,https://www.zomato.com/chennai/waf-bites-egmore/order,,chennai
+Delhi Tandoori Chaap,30% OFF,4.0,41 min,₹150 for one,https://www.zomato.com/chennai/delhi-tandoori-chaap-sowcarpet/order,,chennai
+Hotel Farook,₹101 OFF,4.2,34 min,₹200 for one,https://www.zomato.com/chennai/hotel-farook-purasavakkam/order,,chennai
+Hungsters,₹101 OFF,4.1,38 min,₹150 for one,https://www.zomato.com/chennai/hungsters-kilpauk/order,,chennai
+Makhani Darbar,₹101 OFF,3.3,30 min,₹100 for one,https://www.zomato.com/chennai/makhani-darbar-1-purasavakkam/order,,chennai
+Zahoor Briyani & Fast Food Centre,₹101 OFF,4.0,30 min,₹200 for one,https://www.zomato.com/chennai/zahoor-briyani-fast-food-centre-egmore/order,,chennai
+Buhari Vintage Hotel,30% OFF,4.3,34 min,₹400 for one,https://www.zomato.com/chennai/buhari-vintage-hotel-kilpauk/order,,chennai
+Udipi Hotel Sudha,₹101 OFF,4.2,28 min,₹300 for one,https://www.zomato.com/chennai/udipi-hotel-sudha-egmore/order,,chennai
+Guest Hotel,₹101 OFF,4.2,30 min,₹150 for one,https://www.zomato.com/chennai/guest-hotel-kilpauk/order,,chennai
+FB Sweets,₹101 OFF,4.0,39 min,₹100 for one,https://www.zomato.com/chennai/fb-sweets-egmore/order,,chennai
+Old Madras Baking Company,₹101 OFF,4.2,44 min,₹200 for one,https://www.zomato.com/chennai/old-madras-baking-company-nungambakkam/order,,chennai
+Barbeque Nation,30% OFF,3.9,44 min,₹650 for one,https://www.zomato.com/chennai/barbeque-nation-nungambakkam/order,,chennai
+NOTO - Ice Creams & Desserts,₹101 OFF,3.7,28 min,₹100 for one,https://www.zomato.com/chennai/noto-ice-creams-desserts-egmore/order,,chennai
+MilkyWay,₹101 OFF,4.3,39 min,₹200 for one,https://www.zomato.com/chennai/milkyway-egmore/order,,chennai
+Palm Jumeira,₹101 OFF,4.2,40 min,₹400 for one,https://www.zomato.com/chennai/palm-jumeira-thousand-lights/order,,chennai
+Coffee Shastra,Flat 10% OFF,3.8,39 min,₹100 for one,https://www.zomato.com/chennai/coffee-shastra-kilpauk/order,,chennai
+Sri Vaishnavaa's Chat Shop,₹101 OFF,4.3,32 min,₹100 for one,https://www.zomato.com/chennai/sri-vaishnavaas-chat-shop-kilpauk/order,,chennai
+Momo Kraft,Flat 30% OFF,4.0,34 min,for one,https://www.zomato.com/chennai/momo-kraft-egmore/order,,chennai
+Bombaysthan,₹101 OFF,4.3,35 min,₹200 for one,https://www.zomato.com/chennai/bombaysthan-1-kilpauk/order,,chennai
+Mathsya Egmore,30% OFF,4.3,32 min,₹500 for one,https://www.zomato.com/chennai/mathsya-egmore-egmore/order,,chennai
+Tiffin Shastra,30% OFF,4.2,38 min,₹150 for one,https://www.zomato.com/chennai/tiffin-shastra-kilpauk/order,,chennai
+City Square Cafeteria,30% OFF,4.0,35 min,₹100 for one,https://www.zomato.com/chennai/city-square-cafeteria-egmore/order,,chennai
+Chennai Woodlands,30% OFF,4.1,30 min,₹200 for one,https://www.zomato.com/chennai/chennai-woodlands-egmore/order,,chennai
+Fruit Shop On Greams Road,30% OFF,4.2,28 min,₹200 for one,https://www.zomato.com/chennai/fruit-shop-on-greams-road-1-egmore/order,,chennai
+SSD Meat World And Restaurant,30% OFF,4.2,30 min,₹250 for one,https://www.zomato.com/chennai/ssd-meat-world-and-restaurant-kilpauk/order,,chennai
+Veg Meals By LunchBox,30% OFF,3.6,39 min,₹100 for one,https://www.zomato.com/chennai/veg-meals-by-lunchbox-1-purasavakkam/order,,chennai
+Chaap Master,30% OFF,4.0,31 min,₹200 for one,https://www.zomato.com/chennai/chaap-master-kilpauk/order,,chennai
+Amadora Gourmet Ice Cream & Sorbet,30% OFF,4.6,44 min,₹200 for one,https://www.zomato.com/chennai/amadora-gourmet-ice-cream-sorbet-nungambakkam/order,,chennai
+Kovilpatti Murukku Kadai,30% OFF,4.0,,₹350 for one,https://www.zomato.com/chennai/kovilpatti-murukku-kadai-kilpauk/order,,chennai
+Darbar,30% OFF,3.7,36 min,₹200 for one,https://www.zomato.com/chennai/darbar-egmore/order,,chennai
+Veg Darbar by Behrouz Biryani,30% OFF,3.6,37 min,₹100 for one,https://www.zomato.com/chennai/veg-darbar-by-behrouz-biryani-purasavakkam/order,,chennai
+Nithya Amirtham Sweets,"Beverages, Desserts",4.5,,₹200 for one,https://www.zomato.com/chennai/nithya-amirtham-sweets-kilpauk/order,,chennai
+Sri Keshav Chaats,30% OFF,3.6,37 min,₹150 for one,https://www.zomato.com/chennai/sri-keshav-chaats-vepery/order,,chennai
+Juice Box,30% OFF,4.2,39 min,₹150 for one,https://www.zomato.com/chennai/juice-box-egmore/order,,chennai
+Little Italy,30% OFF,4.2,42 min,₹450 for one,https://www.zomato.com/chennai/little-italy-1-nungambakkam/order,,chennai
+Classic Malaysian Parrota,30% OFF,4.2,37 min,₹150 for one,https://www.zomato.com/chennai/classic-malaysian-parrota-triplicane/order,,chennai
+Fooperis,30% OFF,3.6,26 min,₹100 for one,https://www.zomato.com/chennai/fooperis-purasavakkam/order,,chennai
+Abid's,30% OFF,4.3,31 min,₹700 for one,https://www.zomato.com/chennai/abids-kilpauk/order,,chennai
+Rekha Mithai,30% OFF,4.2,37 min,₹150 for one,https://www.zomato.com/chennai/rekha-mithai-vepery/order,,chennai
+Riyas Biriyani,30% OFF,3.8,28 min,₹150 for one,https://www.zomato.com/chennai/riyas-biriyani-purasavakkam/order,,chennai
+New Moghal Briyani & Fast Food,30% OFF,4.2,37 min,₹100 for one,https://www.zomato.com/chennai/new-moghal-briyani-fast-food-triplicane/order,,chennai
+Darbar Kalyana Biryani,30% OFF,3.8,34 min,₹200 for one,https://www.zomato.com/chennai/darbar-kalyana-biryani-egmore/order,,chennai
+Cake Square - Pulianthope,30% OFF,3.5,41 min,₹200 for one,https://www.zomato.com/chennai/cake-square-pulianthope-purasavakkam/order,,chennai
+Third Wave Coffee,30% OFF,4.2,36 min,₹350 for one,https://www.zomato.com/chennai/third-wave-coffee-kilpauk/order,,chennai
+La Pizza Loca,30% OFF,4.3,35 min,₹100 for one,https://www.zomato.com/chennai/la-pizza-loca-egmore/order,,chennai
+Balaji Sandwich - Alsa Mall,Flat 10% OFF,4.1,33 min,₹100 for one,https://www.zomato.com/chennai/balaji-sandwich-alsa-mall-egmore/order,,chennai
+Sandy's Chocolate Laboratory,30% OFF,4.2,43 min,₹400 for one,https://www.zomato.com/chennai/sandys-chocolate-laboratory-nungambakkam/order,,chennai
+Nellai Darbar,30% OFF,4.1,26 min,₹200 for one,https://www.zomato.com/chennai/nellai-darbar-egmore/order,,chennai
+WOW! Kulfi,Flat 30% OFF,3.9,22 min,for one,https://www.zomato.com/chennai/wow-kulfi-park-town/order,,chennai
+Dum Safar Biryani,₹101 OFF,3.8,45 min,₹200 for one,https://www.zomato.com/chennai/dum-safar-biryani-thousand-lights/order,,chennai
+Nxtdoor,30% OFF,4.1,25 min,₹150 for one,https://www.zomato.com/chennai/nxtdoor-purasavakkam/order,,chennai
+Beyond Loaf,30% OFF,4.5,38 min,₹150 for one,https://www.zomato.com/chennai/beyond-loaf-chetpet/order,,chennai
+Hotel Ashoka - Abhinandan,30% OFF,4.1,31 min,₹300 for one,https://www.zomato.com/chennai/hotel-ashoka-abhinandan-egmore/order,,chennai
+Mahalaxmi Hot And Cool,30% OFF,4.3,23 min,₹100 for one,https://www.zomato.com/chennai/mahalaxmi-hot-and-cool-purasavakkam/order,,chennai
+Zam Zam Fast Food,30% OFF,4.0,30 min,₹150 for one,https://www.zomato.com/chennai/zam-zam-fast-food-egmore/order,,chennai
+Apple Residency,30% OFF,4.3,34 min,₹200 for one,https://www.zomato.com/chennai/apple-residency-triplicane/order,,chennai
+Nooj Sweets And Bakehouse,₹101 OFF,4.2,31 min,₹100 for one,https://www.zomato.com/chennai/nooj-sweets-and-bakehouse-egmore/order,,chennai
+"UBQ-Meals,Thalis & Bowls",30% OFF,3.9,44 min,₹250 for one,https://www.zomato.com/chennai/ubq-meals-thalis-bowls-nungambakkam/order,,chennai
+Keventers Ice Cream,30% OFF,3.8,41 min,₹150 for one,https://www.zomato.com/chennai/keventers-ice-cream-kilpauk/order,,chennai
+DOU,30% OFF,4.2,45 min,₹600 for one,https://www.zomato.com/chennai/dou-nungambakkam/order,,chennai
+Hotel V Chicken,30% OFF,4.1,36 min,₹150 for one,https://www.zomato.com/chennai/hotel-v-chicken-anna-salai/order,,chennai
+Ajanabi - Fountain Plaza - Since 1973,30% OFF,4.3,36 min,₹100 for one,https://www.zomato.com/chennai/ajanabi-fountain-plaza-since-1973-egmore/order,,chennai
+Manohari Sweets And Chat,30% OFF,4.3,42 min,₹100 for one,https://www.zomato.com/chennai/manohari-sweets-and-chat-1-vepery/order,,chennai
+Hotel Deccan,"North Indian, Kerala, Chinese, Seafood",4.1,24 min,₹200 for one,https://www.zomato.com/chennai/hotel-deccan-purasavakkam/order,,chennai
+Lassi Junction,30% OFF,3.8,25 min,₹100 for one,https://www.zomato.com/chennai/lassi-junction-purasavakkam/order,,chennai
+Keifer,30% OFF,3.5,25 min,₹100 for one,https://www.zomato.com/chennai/keifer-purasavakkam/order,,chennai
+Atho Kadai,30% OFF,4.1,33 min,₹100 for one,https://www.zomato.com/chennai/atho-kadai-1-kilpauk/order,,chennai
+WingMan By BurgerMan,30% OFF,4.3,45 min,₹200 for one,https://www.zomato.com/chennai/wingman-by-burgerman-nungambakkam/order,,chennai
+Waffomelt Co,30% OFF,3.9,33 min,₹150 for one,https://www.zomato.com/chennai/waffomelt-co-purasavakkam/order,,chennai
+Nati Raja - Donne Biryani,₹300 OFF,2.1,37 min,₹100 for one,https://www.zomato.com/chennai/nati-raja-donne-biryani-anna-salai/order,,chennai
+Thinsane Pizza by Oven Story,30% OFF,2.8,32 min,₹40 for one,https://www.zomato.com/chennai/thinsane-pizza-by-oven-story-purasavakkam/order,,chennai
+Filli Cafe,30% OFF,4.0,47 min,₹550 for one,https://www.zomato.com/chennai/filli-cafe-nungambakkam/order,,chennai
+Mantras Pure Veg Restaurant,30% OFF,4.3,32 min,₹550 for one,https://www.zomato.com/chennai/mantras-pure-veg-restaurant-kilpauk/order,,chennai
+Batter,30% OFF,4.3,46 min,₹100 for one,https://www.zomato.com/chennai/batter-nungambakkam/order,,chennai
+Mayur Sweets Spices And Cafe,30% OFF,4.5,40 min,₹200 for one,https://www.zomato.com/chennai/mayur-sweets-spices-and-cafe-chetpet/order,,chennai
+Ajab Mithaai Ghar,30% OFF,4.1,44 min,₹150 for one,https://www.zomato.com/chennai/ajab-mithaai-ghar-sowcarpet/order,,chennai
+Wraps & Rolls,30% OFF,4.0,34 min,₹100 for one,https://www.zomato.com/chennai/wraps-rolls-kilpauk/order,,chennai
+Zaiqa Fast Food,30% OFF,4.3,37 min,₹150 for one,https://www.zomato.com/chennai/zaiqa-fast-food-triplicane/order,,chennai
+Adda Cafe & Chats,₹101 OFF,4.0,30 min,₹200 for one,https://www.zomato.com/chennai/adda-cafe-chats-purasavakkam/order,,chennai
+Shree Maa Inti Devi Chat,₹101 OFF,3.6,28 min,₹100 for one,https://www.zomato.com/chennai/shree-maa-inti-devi-chat-purasavakkam/order,,chennai
+The Tandoori Kitchen,₹101 OFF,3.7,20 min,₹150 for one,https://www.zomato.com/chennai/the-tandoori-kitchen-2-park-town/order,,chennai
+Cake World,₹101 OFF,4.3,31 min,₹200 for one,https://www.zomato.com/chennai/cake-world-purasavakkam/order,,chennai
+Kazim's Kebab,₹101 OFF,3.7,43 min,₹150 for one,https://www.zomato.com/chennai/kazims-kebab-1-triplicane/order,,chennai
+After Hours,₹101 OFF,3.8,32 min,₹400 for one,https://www.zomato.com/chennai/after-hours-park-town/order,,chennai
+The Lakshmi Cafe,₹101 OFF,3.9,28 min,₹100 for one,https://www.zomato.com/chennai/the-lakshmi-cafe-egmore/order,,chennai
+Cafe Royal,₹101 OFF,4.0,25 min,₹150 for one,https://www.zomato.com/chennai/cafe-royal-1-purasavakkam/order,,chennai
+Cafe Stop,₹101 OFF,4.2,34 min,₹400 for one,https://www.zomato.com/chennai/cafe-stop-egmore/order,,chennai
+Mansuk's Sweets & Snacks,₹101 OFF,3.9,27 min,₹100 for one,https://www.zomato.com/chennai/mansuks-sweets-snacks-purasavakkam/order,,chennai
+Azan Feast,₹101 OFF,-,38 min,₹100 for one,https://www.zomato.com/chennai/azan-feast-triplicane/order,,chennai
+KUP Modern Kitchen & Coffee Bar,₹101 OFF,4.4,45 min,₹400 for one,https://www.zomato.com/chennai/kup-modern-kitchen-coffee-bar-nungambakkam/order,,chennai
+Amal Fried Chicken And Wrap,₹101 OFF,4.4,28 min,₹200 for one,https://www.zomato.com/chennai/amal-fried-chicken-and-wrap-purasavakkam/order,,chennai
+New Cauvery Restaurant,₹101 OFF,4.3,20 min,₹100 for one,https://www.zomato.com/chennai/new-cauvery-restaurant-park-town/order,,chennai
+Enoki,₹101 OFF,4.4,25 min,₹400 for one,https://www.zomato.com/chennai/enoki-egmore/order,,chennai
+Garrison,Flat 10% OFF,4.1,35 min,"₹1,200 for one",https://www.zomato.com/chennai/garrison-2-egmore/order,,chennai
+Bombay Ice Cream Co.,₹101 OFF,4.2,28 min,₹100 for one,https://www.zomato.com/chennai/bombay-ice-cream-co-park-town/order,,chennai
+Hotel Vimala,₹101 OFF,4.0,33 min,₹100 for one,https://www.zomato.com/chennai/hotel-vimala-2-egmore/order,,chennai
+Zomoz - The Momo Company,₹101 OFF,4.1,40 min,₹250 for one,https://www.zomato.com/chennai/zomoz-the-momo-company-kilpauk/order,,chennai
+WOW! China,₹101 OFF,3.4,,₹200 for one,https://www.zomato.com/chennai/wow-china-anna-nagar-east/order,,chennai
+Swayed Over Coffee,₹101 OFF,3.1,31 min,₹100 for one,https://www.zomato.com/chennai/swayed-over-coffee-egmore/order,,chennai
+Venkateshwara Boli Stall,₹101 OFF,3.7,32 min,₹100 for one,https://www.zomato.com/chennai/venkateshwara-boli-stall-1-purasavakkam/order,,chennai
+SK Bangarpet Chats,30% OFF,3.7,30 min,₹150 for one,https://www.zomato.com/chennai/sk-bangarpet-chats-purasavakkam/order,,chennai
+Mint Chat,30% OFF,3.4,31 min,₹150 for one,https://www.zomato.com/chennai/mint-chat-purasavakkam/order,,chennai
+Acha Coffee,30% OFF,4.0,44 min,₹200 for one,https://www.zomato.com/chennai/acha-coffee-nungambakkam/order,,chennai
+Hotel Kalyana Bhavan Biriyani,30% OFF,3.8,33 min,₹200 for one,https://www.zomato.com/chennai/hotel-kalyana-bhavan-biriyani-egmore/order,,chennai
+Madras Blend & Brews,30% OFF,4.0,27 min,₹350 for one,https://www.zomato.com/chennai/madras-blend-brews-purasavakkam/order,,chennai
+Bismi Foods,30% OFF,3.2,33 min,₹200 for one,https://www.zomato.com/chennai/bismi-foods-egmore/order,,chennai
+Bull's Eye,30% OFF,3.5,36 min,₹150 for one,https://www.zomato.com/chennai/bulls-eye-egmore/order,,chennai
+Hotel Paradise,30% OFF,4.2,27 min,₹350 for one,https://www.zomato.com/chennai/hotel-paradise-3-purasavakkam/order,,chennai
+Juice Pump,30% OFF,4.3,29 min,₹200 for one,https://www.zomato.com/chennai/juice-pump-egmore/order,,chennai
+Murugan Idli Shop Sweets & Snacks,30% OFF,-,20 min,₹100 for one,https://www.zomato.com/chennai/murugan-idli-shop-sweets-snacks-park-town/order,,chennai
+Gupta Chats Center,30% OFF,3.5,37 min,₹100 for one,https://www.zomato.com/chennai/gupta-chats-center-triplicane/order,,chennai
+Raj Snacks,30% OFF,4.0,35 min,₹150 for one,https://www.zomato.com/chennai/raj-snacks-kilpauk/order,,chennai
+Biriyani Bhai,30% OFF,3.6,44 min,₹150 for one,https://www.zomato.com/chennai/biriyani-bhai-vepery/order,,chennai
+Goldman’s Steakhouse,30% OFF,3.8,40 min,₹650 for one,https://www.zomato.com/chennai/goldmans-steakhouse-nungambakkam/order,,chennai
+4 Degree,30% OFF,4.4,45 min,₹100 for one,https://www.zomato.com/chennai/4-degree-nungambakkam/order,,chennai
+Ottoman's Baklava,30% OFF,4.4,47 min,₹200 for one,https://www.zomato.com/chennai/ottomans-baklava-thousand-lights/order,,chennai
+Taibah,30% OFF,3.8,37 min,₹300 for one,https://www.zomato.com/chennai/taibah-egmore/order,,chennai
+Piazza Pizza By Little Italy,30% OFF,3.9,44 min,₹200 for one,https://www.zomato.com/chennai/piazza-pizza-by-little-italy-nungambakkam/order,,chennai
+Yaarab Kitchen,30% OFF,4.3,33 min,₹150 for one,https://www.zomato.com/chennai/yaarab-kitchen-4-egmore/order,,chennai
+Kayal Heritage,30% OFF,New,36 min,₹100 for one,https://www.zomato.com/chennai/kayal-heritage-1-purasavakkam/order,,chennai
+Khaas - The Elevated Indian Kitchen & Bar,30% OFF,3.2,46 min,"₹1,100 for one",https://www.zomato.com/chennai/khaas-the-elevated-indian-kitchen-bar-egmore/order,,chennai
+Coffea,30% OFF,-,42 min,₹250 for one,https://www.zomato.com/chennai/coffea-thousand-lights/order,,chennai
+Ramesh Tiffin Center,30% OFF,4.0,37 min,₹100 for one,https://www.zomato.com/chennai/ramesh-tiffin-center-triplicane/order,,chennai
+Hotel Sri Krishna Prasad - Since 1963,30% OFF,4.4,42 min,₹100 for one,https://www.zomato.com/chennai/hotel-sri-krishna-prasad-since-1963-sowcarpet/order,,chennai
+La Pino'z Pizza,₹101 OFF,3.4,39 min,₹250 for one,https://www.zomato.com/chennai/la-pinoz-pizza-1-kilpauk/order,,chennai
+SOUL By Dair,30% OFF,4.2,44 min,₹200 for one,https://www.zomato.com/chennai/soul-by-dair-1-nungambakkam/order,,chennai
+Toscano,30% OFF,4.2,44 min,₹750 for one,https://www.zomato.com/chennai/toscano-nungambakkam/order,,chennai
+Hotel Crescent,30% OFF,4.2,,₹250 for one,https://www.zomato.com/chennai/hotel-crescent-nungambakkam/order,,chennai
+ID,30% OFF,4.3,36 min,₹150 for one,https://www.zomato.com/chennai/id-kilpauk/order,,chennai
+Nasi And Mee,30% OFF,4.4,45 min,₹600 for one,https://www.zomato.com/chennai/nasi-and-mee-nungambakkam/order,,chennai
+Ibrahim Biriyani,30% OFF,3.9,36 min,₹150 for one,https://www.zomato.com/chennai/ibrahim-biriyani-kilpauk/order,,chennai
+HOTEL ZAM ZAM,30% OFF,4.1,40 min,₹100 for one,https://www.zomato.com/chennai/hotel-zam-zam-triplicane/order,,chennai
+Italia On The Go,30% OFF,4.2,35 min,₹250 for one,https://www.zomato.com/chennai/italia-on-the-go-2-kilpauk/order,,chennai
+Natural Ice Cream,30% OFF,4.5,46 min,₹100 for one,https://www.zomato.com/chennai/natural-ice-cream-thousand-lights/order,,chennai
+Royal Pan Palace And Chats,₹101 OFF,4.3,,₹150 for one,https://www.zomato.com/chennai/royal-pan-palace-and-chats-vepery/order,,chennai
+The Noodle Theory,₹101 OFF,4.1,37 min,₹250 for one,https://www.zomato.com/chennai/the-noodle-theory-kilpauk/order,,chennai
+Marlen Biryani Restaurant,₹101 OFF,3.9,39 min,₹200 for one,https://www.zomato.com/chennai/marlen-biryani-restaurant-kilpauk/order,,chennai
+The Green Box,"Chinese, Momos, Oriental, Indo-Chinese, Thai",4.2,35 min,₹200 for one,https://www.zomato.com/chennai/the-green-box-kilpauk/order,,chennai
+Ginger Garlic,₹101 OFF,4.2,39 min,₹200 for one,https://www.zomato.com/chennai/ginger-garlic-purasavakkam/order,,chennai
+Ajnabee Sweets,₹101 OFF,4.4,35 min,₹200 for one,https://www.zomato.com/chennai/ajnabee-sweets-1-kilpauk/order,,chennai
+French Loaf,Flat 25% OFF,4.1,47 min,₹200 for one,https://www.zomato.com/chennai/french-loaf-nungambakkam/order,,chennai
+Trattoria - Italian Kitchen,30% OFF,4.3,44 min,₹750 for one,https://www.zomato.com/chennai/trattoria-italian-kitchen-nungambakkam/order,,chennai
+AP Hyderabadi Irani Chai,₹101 OFF,4.4,39 min,₹100 for one,https://www.zomato.com/chennai/ap-hyderabadi-irani-chai-triplicane/order,,chennai
+Raj Shree Chats,₹101 OFF,4.2,43 min,₹150 for one,https://www.zomato.com/chennai/raj-shree-chats-sowcarpet/order,,chennai
+North East Kitchen,₹101 OFF,4.3,37 min,₹250 for one,https://www.zomato.com/chennai/north-east-kitchen-egmore/order,,chennai
+Chaska Chaat,₹101 OFF,4.3,33 min,₹200 for one,https://www.zomato.com/chennai/chaska-chaat-kilpauk/order,,chennai
+Hotel Vishwa Sagar,30% OFF,4.3,42 min,₹100 for one,https://www.zomato.com/chennai/hotel-vishwa-sagar-kilpauk/order,,chennai
+New Annapurna Hotel & Restaurant,30% OFF,4.3,37 min,₹150 for one,https://www.zomato.com/chennai/new-annapurna-hotel-restaurant-thousand-lights/order,,chennai
+Cinnamon House,30% OFF,4.4,42 min,₹300 for one,https://www.zomato.com/chennai/cinnamon-house-nungambakkam/order,,chennai
+Mansukhlal Mithaiwala,30% OFF,4.1,40 min,₹150 for one,https://www.zomato.com/chennai/mansukhlal-mithaiwala-perambur/order,,chennai
+Snack Art,30% OFF,3.6,,₹150 for one,https://www.zomato.com/chennai/snack-art-purasavakkam/order,,chennai
+City Fast Food,30% OFF,3.7,44 min,₹200 for one,https://www.zomato.com/chennai/city-fast-food-george-town/order,,chennai
+Homely Kitchen,30% OFF,4.0,40 min,₹100 for one,https://www.zomato.com/chennai/homely-kitchen-perambur/order,,chennai
+Hotel Brahmaputra,30% OFF,4.2,44 min,₹200 for one,https://www.zomato.com/chennai/hotel-brahmaputra-thousand-lights/order,,chennai
+Fruit Bae,30% OFF,4.1,46 min,₹150 for one,https://www.zomato.com/chennai/fruit-bae-nungambakkam/order,,chennai
+We Fry,30% OFF,4.2,42 min,₹200 for one,https://www.zomato.com/chennai/we-fry-1-perambur/order,,chennai
+Royal Sandwich,Flat 10% OFF,4.2,39 min,₹200 for one,https://www.zomato.com/chennai/royal-sandwich-triplicane/order,,chennai
+Hotel Sangam,30% OFF,4.1,35 min,₹350 for one,https://www.zomato.com/chennai/hotel-sangam-triplicane/order,,chennai
+Chandra Cafe,30% OFF,4.0,45 min,₹100 for one,https://www.zomato.com/chennai/chandra-cafe-sowcarpet/order,,chennai
+Brewniverse Cafe,30% OFF,4.0,,₹200 for one,https://www.zomato.com/chennai/brewniverse-cafe-kilpauk/order,,chennai
+Slyde by Crave Junction,30% OFF,4.0,33 min,₹400 for one,https://www.zomato.com/chennai/slyde-by-crave-junction-kilpauk/order,,chennai
+Hot N Cool,30% OFF,4.2,48 min,₹150 for one,https://www.zomato.com/chennai/hot-n-cool-1-thousand-lights/order,,chennai
+Toscano's Crafted Cakes & Desserts,30% OFF,4.2,46 min,₹400 for one,https://www.zomato.com/chennai/toscanos-crafted-cakes-desserts-thousand-lights/order,,chennai
+The Dark Night,30% OFF,3.6,38 min,₹100 for one,https://www.zomato.com/chennai/the-dark-night-purasavakkam/order,,chennai
+Sanmuga Home Foods,30% OFF,4.4,40 min,₹100 for one,https://www.zomato.com/chennai/sanmuga-home-foods-triplicane/order,,chennai
+Rvive Cafe,30% OFF,4.1,36 min,₹150 for one,https://www.zomato.com/chennai/rvive-cafe-kilpauk/order,,chennai
+Freshh Cakes,30% OFF,3.8,43 min,₹300 for one,https://www.zomato.com/chennai/freshh-cakes-triplicane/order,,chennai
+Dopamine Infinity,30% OFF,3.8,39 min,₹200 for one,https://www.zomato.com/chennai/dopamine-infinity-perambur/order,,chennai
+Sante Spa Cuisine,30% OFF,4.3,44 min,₹650 for one,https://www.zomato.com/chennai/sante-spa-cuisine-nungambakkam/order,,chennai
+Poha Wala,30% OFF,4.2,45 min,₹100 for one,https://www.zomato.com/chennai/poha-wala-sowcarpet/order,,chennai
+Coffee? Since 1999,30% OFF,4.3,43 min,₹600 for one,https://www.zomato.com/chennai/coffee-since-1999-2-thousand-lights/order,,chennai
+Mini Wings,30% OFF,4.3,33 min,₹150 for one,https://www.zomato.com/chennai/mini-wings-1-kilpauk/order,,chennai
+Thirupathi Bhimas,30% OFF,4.0,40 min,₹400 for one,https://www.zomato.com/chennai/thirupathi-bhimas-anna-salai/order,,chennai
+Brown Tree,30% OFF,4.0,36 min,₹100 for one,https://www.zomato.com/chennai/brown-tree-1-kilpauk/order,,chennai
+Sandwich Hub By Anika Foods,30% OFF,4.3,40 min,₹150 for one,https://www.zomato.com/chennai/sandwich-hub-by-anika-foods-kilpauk/order,,chennai
+Fresh Cakes By Bakerzoh,Flat 20% OFF,4.7,42 min,₹150 for one,https://www.zomato.com/chennai/fresh-cakes-by-bakerzoh-kilpauk/order,,chennai
+Sowcarpet Chat Wala,30% OFF,3.8,39 min,₹100 for one,https://www.zomato.com/chennai/sowcarpet-chat-wala-kilpauk/order,,chennai
+Indiska Magic,30% OFF,4.0,46 min,₹150 for one,https://www.zomato.com/chennai/indiska-magic-nungambakkam/order,,chennai
+WOW! Chicken By WOW! Momo,Flat 30% OFF,3.6,,₹200 for one,https://www.zomato.com/chennai/wow-chicken-by-wow-momo-anna-nagar-east/order,,chennai
+Potful - Claypot Biryanis,₹300 OFF,4.2,43 min,₹200 for one,https://www.zomato.com/chennai/potful-claypot-biryanis-shenoy-nagar/order,,chennai
+Arabian Grills,30% OFF,3.7,43 min,₹150 for one,https://www.zomato.com/chennai/arabian-grills-anna-nagar-west/order,,chennai
+Waffle Cart,30% OFF,3.6,60 min,₹100 for one,https://www.zomato.com/chennai/waffle-cart-kilpauk/order,,chennai
+Olive Garden Caterer,30% OFF,3.6,42 min,₹100 for one,https://www.zomato.com/chennai/olive-garden-caterer-anna-nagar-east/order,,chennai
+Super Soda,30% OFF,-,42 min,₹150 for one,https://www.zomato.com/chennai/super-soda-kilpauk/order,,chennai
+Waffle N Brew,30% OFF,4.3,37 min,₹150 for one,https://www.zomato.com/chennai/waffle-n-brew-1-kilpauk/order,,chennai
+Udupi Hotel Venkateswara,30% OFF,4.4,,₹200 for one,https://www.zomato.com/chennai/udupi-hotel-venkateswara-anna-nagar-east/order,,chennai
+One Pot Chinese,30% OFF,3.7,42 min,₹150 for one,https://www.zomato.com/chennai/one-pot-chinese-kilpauk/order,,chennai
+Biryani People - World Of Biryanis,30% OFF,4.1,44 min,₹100 for one,https://www.zomato.com/chennai/biryani-people-world-of-biryanis-shenoy-nagar/order,,chennai
+Aroma Pure Veg Restaurant,30% OFF,4.3,47 min,₹100 for one,https://www.zomato.com/chennai/aroma-pure-veg-restaurant-nungambakkam/order,,chennai
+Momo Square,30% OFF,4.1,45 min,₹150 for one,https://www.zomato.com/chennai/momo-square-shenoy-nagar/order,,chennai
+Juicy Rolls,30% OFF,4.0,43 min,₹100 for one,https://www.zomato.com/chennai/juicy-rolls-1-chetpet/order,,chennai
+Chaat By ID,30% OFF,3.7,37 min,₹100 for one,https://www.zomato.com/chennai/chaat-by-id-kilpauk/order,,chennai
+Milky Way,30% OFF,4.4,43 min,₹150 for one,https://www.zomato.com/chennai/milky-way-kilpauk/order,,chennai
+Sri Magesh Chettinadu Hotel,30% OFF,4.1,,₹250 for one,https://www.zomato.com/chennai/sri-magesh-chettinadu-hotel-kilpauk/order,,chennai
+Kwality Wall's Ice Cream And More,30% OFF,4.1,45 min,₹100 for one,https://www.zomato.com/chennai/kwality-walls-ice-cream-and-more-1-aminijikarai/order,,chennai
+Bismi Home Kitchen,30% OFF,4.3,41 min,₹100 for one,https://www.zomato.com/chennai/bismi-home-kitchen-anna-nagar-east/order,,chennai
+Liya Caterers,30% OFF,3.6,39 min,₹150 for one,https://www.zomato.com/chennai/liya-caterers-kilpauk/order,,chennai
+Wholesome Bowlsome,₹300 OFF,4.3,49 min,₹200 for one,https://www.zomato.com/chennai/wholesome-bowlsome-shenoy-nagar/order,,chennai
+Karaikal Mess,30% OFF,3.6,42 min,₹150 for one,https://www.zomato.com/chennai/karaikal-mess-anna-nagar-east/order,,chennai
+Barkat Hyderabad Biriyani,30% OFF,4.0,45 min,₹100 for one,https://www.zomato.com/chennai/barkat-hyderabad-biriyani-royapettah/order,,chennai
+Annai Home Food,30% OFF,3.8,44 min,₹250 for one,https://www.zomato.com/chennai/annai-home-food-12-anna-nagar-east/order,,chennai
+Mumbai Chatwala,30% OFF,4.2,34 min,₹100 for one,https://www.zomato.com/chennai/mumbai-chaatwala-kilpauk/order,,chennai
+The Entrance Cafe,₹101 OFF,4.1,37 min,₹750 for one,https://www.zomato.com/chennai/the-entrance-cafe-kilpauk/order,,chennai
+Minar Biriyani,30% OFF,4.0,45 min,₹250 for one,https://www.zomato.com/chennai/minar-biriyani-shenoy-nagar/order,,chennai
+Delight Cake Treat,30% OFF,4.3,40 min,₹200 for one,https://www.zomato.com/chennai/delight-cake-treat-perambur/order,,chennai
+Senorita's Mexican Kitchen By Little Italy,30% OFF,4.2,44 min,₹200 for one,https://www.zomato.com/chennai/senoritas-mexican-kitchen-by-little-italy-nungambakkam/order,,chennai
+Van Dough Cafe & Pizzeria,30% OFF,4.0,41 min,₹100 for one,https://www.zomato.com/chennai/van-dough-cafe-pizzeria-1-nungambakkam/order,,chennai
+Seena Bhai 1977 Chat & Juices,30% OFF,3.6,44 min,₹100 for one,https://www.zomato.com/chennai/seena-bhai-1977-chat-juices-sowcarpet/order,,chennai
+Hum Tum Foods And Beverages,30% OFF,3.9,,₹150 for one,https://www.zomato.com/chennai/hum-tum-foods-and-beverages-purasavakkam/order,,chennai
+Mr Brwn,30% OFF,New,41 min,₹100 for one,https://www.zomato.com/chennai/mr-brwn-kilpauk/order,,chennai
+Hunger Square,30% OFF,3.6,45 min,₹200 for one,https://www.zomato.com/chennai/hunger-square-shenoy-nagar/order,,chennai
+Raj Sree Sweets,30% OFF,2.5,46 min,₹100 for one,https://www.zomato.com/chennai/raj-sree-sweets-sowcarpet/order,,chennai
+Happy Kitchen,30% OFF,-,43 min,₹100 for one,https://www.zomato.com/chennai/happy-kitchen-perambur/order,,chennai
+Chai Karak,30% OFF,-,42 min,₹100 for one,https://www.zomato.com/chennai/chai-karak-perambur/order,,chennai
+Shradha Lulla Gourmet Desserts,30% OFF,4.4,43 min,₹400 for one,https://www.zomato.com/chennai/shradha-lulla-gourmet-desserts-1-nungambakkam/order,,chennai
+Rice Express By Shero,30% OFF,4.0,,₹200 for one,https://www.zomato.com/chennai/rice-express-by-shero-2-vepery/order,,chennai
+Crispy & Creme,₹101 OFF,3.3,38 min,₹150 for one,https://www.zomato.com/chennai/crispy-creme-purasavakkam/order,,chennai
+Teaman,₹101 OFF,3.4,48 min,₹200 for one,https://www.zomato.com/chennai/teaman-kilpauk/order,,chennai
+OX Belgian Waffle Cafe,₹101 OFF,4.0,42 min,₹200 for one,https://www.zomato.com/chennai/ox-belgian-waffle-cafe-nungambakkam/order,,chennai
+Haagen Dazs,₹101 OFF,4.0,47 min,₹100 for one,https://www.zomato.com/chennai/haagen-dazs-thousand-lights/order,,chennai
+Hotel Blue Mint,"South Indian, Biryani, Chinese, Sandwich, Fast Food, Momos",New,41 min,₹300 for one,https://www.zomato.com/chennai/hotel-blue-mint-thousand-lights/order,,chennai
+SS Hyderabad Biryani-Perambur Railway,30% OFF,4.2,,₹200 for one,https://www.zomato.com/chennai/ss-hyderabad-biryani-perambur-railway-perambur/order,,chennai
+Sangeetha Veg Restaurant,30% OFF,4.3,,₹250 for one,https://www.zomato.com/chennai/sangeetha-veg-restaurant-perambur/order,,chennai
+The Patiala House,30% OFF,4.3,,₹350 for one,https://www.zomato.com/chennai/the-patiala-house-chetpet/order,,chennai
+Five Star Chicken,"Fast Food, Burger, Rolls",4.0,,₹100 for one,https://www.zomato.com/chennai/five-star-chicken-royapuram/order,,chennai
+Junior Kuppanna,Flat 15% OFF,3.3,,₹400 for one,https://www.zomato.com/chennai/junior-kuppanna-triplicane/order,,chennai
+Temp Fried Chicken,30% OFF,4.3,,₹400 for one,https://www.zomato.com/chennai/temp-fried-chicken-nungambakkam/order,,chennai
+Atti Square,30% OFF,4.0,,₹150 for one,https://www.zomato.com/chennai/atti-square-triplicane/order,,chennai
+Khichdi Bar,30% OFF,4.3,,₹200 for one,https://www.zomato.com/chennai/khichdi-bar-purasavakkam/order,,chennai
+Shero Home Food - Chettinad,Chettinad,4.1,,for one,https://www.zomato.com/chennai/shero-home-food-chettinad-3-purasavakkam/order,,chennai
+Wangs Kitchen,Flat 25% OFF,3.7,,₹350 for one,https://www.zomato.com/chennai/wangs-kitchen-royapettah/order,,chennai
+LOC Square,₹101 OFF,4.5,,₹250 for one,https://www.zomato.com/chennai/loc-square-triplicane/order,,chennai
+Dhabba Express,"North Indian, Chinese, Fast Food",3.8,,₹300 for one,https://www.zomato.com/chennai/dhabba-express-nungambakkam/order,,chennai
+Rasoee,₹101 OFF,4.1,,₹150 for one,https://www.zomato.com/chennai/rasoee-1-kilpauk/order,,chennai
+Flower Drum,₹101 OFF,4.0,,₹400 for one,https://www.zomato.com/chennai/flower-drum-egmore/order,,chennai
+Shyam's Bombay Halwa House,₹101 OFF,4.1,,₹300 for one,https://www.zomato.com/chennai/shyams-bombay-halwa-house-sowcarpet/order,,chennai
+Nei Idly Sambar,₹101 OFF,3.9,,₹150 for one,https://www.zomato.com/chennai/nei-idly-sambar-1-kilpauk/order,,chennai
+London Waffle Co.,₹101 OFF,4.0,,₹150 for one,https://www.zomato.com/chennai/london-waffle-co-1-thousand-lights/order,,chennai
+Cream Centre - Vegetarian Legacy Since 1958,₹101 OFF,4.2,,₹500 for one,https://www.zomato.com/chennai/cream-centre-vegetarian-legacy-since-1958-nungambakkam/order,,chennai
+The Street Shawarma,₹101 OFF,4.2,,₹150 for one,https://www.zomato.com/chennai/the-street-shawarma-1-perambur/order,,chennai
+Zara's Home Food,₹101 OFF,4.0,,₹100 for one,https://www.zomato.com/chennai/zaras-home-food-egmore/order,,chennai
+Mahendran Naan Stall,30% OFF,4.2,,₹100 for one,https://www.zomato.com/chennai/mahendran-naan-stall-royapuram/order,,chennai
+Chennai Fast Food,30% OFF,4.2,,₹100 for one,https://www.zomato.com/chennai/chennai-fast-food-triplicane/order,,chennai
+Parwani's Bombay Halwa House,30% OFF,4.3,,₹200 for one,https://www.zomato.com/chennai/parwanis-bombay-halwa-house-kilpauk/order,,chennai
+The OG The Burger Company,30% OFF,4.1,,₹150 for one,https://www.zomato.com/chennai/the-og-the-burger-company-george-town/order,,chennai
+The New Box,30% OFF,4.0,,₹200 for one,https://www.zomato.com/chennai/the-new-box-purasavakkam/order,,chennai
+Kabab Corner,30% OFF,4.3,,₹200 for one,https://www.zomato.com/chennai/kabab-corner-egmore/order,,chennai
+Ravi Mehra's Delhi Hotel,30% OFF,4.3,,₹450 for one,https://www.zomato.com/chennai/ravi-mehras-delhi-hotel-park-town/order,,chennai
+National Lodge,30% OFF,4.3,,₹150 for one,https://www.zomato.com/chennai/national-lodge-1-triplicane/order,,chennai
+AKS Kabab,30% OFF,4.0,,₹200 for one,https://www.zomato.com/chennai/aks-kabab-royapettah/order,,chennai
+Celebration,30% OFF,3.8,,₹150 for one,https://www.zomato.com/chennai/celebration-royapettah/order,,chennai
+The Cascade,30% OFF,4.3,,₹400 for one,https://www.zomato.com/chennai/the-cascade-nungambakkam/order,,chennai
+Cafe Cove Garden - By The Mayflower,Flat 20% OFF,3.6,,₹500 for one,https://www.zomato.com/chennai/cafe-cove-garden-by-the-mayflower-egmore/order,,chennai
+Gujraj Veg Restaurant,30% OFF,4.0,,₹400 for one,https://www.zomato.com/chennai/gujraj-veg-restaurant-2-park-town/order,,chennai
+SK Burger Man,30% OFF,4.5,,₹150 for one,https://www.zomato.com/chennai/sk-burger-man-purasavakkam/order,,chennai
+Malli Meena's Home Kitchen,30% OFF,4.1,,₹250 for one,https://www.zomato.com/chennai/malli-meenas-home-kitchen-egmore/order,,chennai
+Little North,30% OFF,3.8,,₹350 for one,https://www.zomato.com/chennai/little-north-kilpauk/order,,chennai
+Atithi Restaurant,30% OFF,4.1,,₹200 for one,https://www.zomato.com/chennai/atithi-restaurant-thousand-lights/order,,chennai
+Rangis',30% OFF,4.3,,₹400 for one,https://www.zomato.com/chennai/rangis-nungambakkam/order,,chennai
+Town Cafe,30% OFF,4.0,,₹150 for one,https://www.zomato.com/chennai/town-cafe-purasavakkam/order,,chennai
+Buntastik,"Desserts, Ice Cream",4.1,,₹100 for one,https://www.zomato.com/chennai/buntastik-kilpauk/order,,chennai
+Pasha Burger & Kebab,30% OFF,3.8,,₹100 for one,https://www.zomato.com/chennai/pasha-burger-kebab-nungambakkam/order,,chennai
+Pranav Chats,30% OFF,3.4,,₹200 for one,https://www.zomato.com/chennai/pranav-chats-perambur/order,,chennai
+Red E Drop Zone,Flat 10% OFF,4.0,,₹200 for one,https://www.zomato.com/chennai/red-e-drop-zone-perambur/order,,chennai
+Copper Chimney,30% OFF,4.3,,₹650 for one,https://www.zomato.com/chennai/copper-chimney-nungambakkam/order,,chennai
+Aroma Pantry,30% OFF,4.0,,₹150 for one,https://www.zomato.com/chennai/aroma-pantry-thousand-lights/order,,chennai
+Olive And Basil,"Oriental, Chinese, Asian, Thai, Seafood, Desserts, Beverages",3.7,,₹400 for one,https://www.zomato.com/chennai/olive-and-basil-egmore/order,,chennai
+Pure Veg Daal Rotti,30% OFF,4.1,,₹200 for one,https://www.zomato.com/chennai/pure-veg-daal-rotti-royapettah/order,,chennai
+Aahaa Atho Booth,30% OFF,4.1,,₹100 for one,https://www.zomato.com/chennai/aahaa-atho-booth-purasavakkam/order,,chennai
+Vallalar Quality Tiffin Centre,30% OFF,4.1,,₹40 for one,https://www.zomato.com/chennai/vallalar-quality-tiffin-centre-purasavakkam/order,,chennai
+Best Fast Food,30% OFF,3.9,,₹100 for one,https://www.zomato.com/chennai/best-fast-food-1-vepery/order,,chennai
+Sree Agarwal Bhojanaalay,30% OFF,4.4,,₹200 for one,https://www.zomato.com/chennai/sree-agarwal-bhojanaalay-sowcarpet/order,,chennai
+Meat.Com,30% OFF,4.0,,₹150 for one,https://www.zomato.com/chennai/meat-com-royapettah/order,,chennai
+A1 Sheek Kabab Centre,30% OFF,4.3,,₹150 for one,https://www.zomato.com/chennai/a1-sheek-kabab-centre-purasavakkam/order,,chennai
+Sundari Akka Kadai,₹101 OFF,4.4,,₹150 for one,https://www.zomato.com/chennai/sundari-akka-kadai-5-triplicane/order,,chennai
+Bombay Brasserie,₹101 OFF,4.4,,₹750 for one,https://www.zomato.com/chennai/bombay-brasserie-nungambakkam/order,,chennai
+Cheta Butter Milk,₹101 OFF,4.0,,₹100 for one,https://www.zomato.com/chennai/cheta-butter-milk-thousand-lights/order,,chennai
+Night Out Corner,₹101 OFF,4.0,,₹200 for one,https://www.zomato.com/chennai/night-out-corner-1-vepery/order,,chennai
+China Town,₹101 OFF,4.5,,₹600 for one,https://www.zomato.com/chennai/china-town-1-egmore/order,,chennai
+Meat And Eat,Flat 20% OFF,3.6,,₹200 for one,https://www.zomato.com/chennai/meat-and-eat-purasavakkam/order,,chennai
+Seven Eleven Cafe & Restaurant,₹101 OFF,-,,₹150 for one,https://www.zomato.com/chennai/seven-eleven-cafe-restaurant-1-thousand-lights/order,,chennai
+O.L.E,₹101 OFF,4.0,,₹200 for one,https://www.zomato.com/chennai/o-l-e-nungambakkam/order,,chennai
+Sharief Bhai Biryani,₹101 OFF,3.9,,₹350 for one,https://www.zomato.com/chennai/sharief-bhai-biryani-perambur/order,,chennai
+Roz Shawarma & Rolls,₹101 OFF,3.6,,₹200 for one,https://www.zomato.com/chennai/roz-shawarma-rolls-1-perambur/order,,chennai
+Kaimanam,Flat 10% OFF,4.1,,₹250 for one,https://www.zomato.com/chennai/kaimanam-gopalapuram/order,,chennai
+Anu's Punjabi Dhaba,₹101 OFF,4.3,,₹500 for one,https://www.zomato.com/chennai/anus-punjabi-dhaba-gopalapuram/order,,chennai
+Alibaba Shawarma and 40 Dishes,₹101 OFF,3.8,,₹150 for one,https://www.zomato.com/chennai/alibaba-shawarma-and-40-dishes-choolaimedu/order,,chennai
+Madurai Pandian Mess,₹101 OFF,4.0,,₹150 for one,https://www.zomato.com/chennai/madurai-pandian-mess-royapettah/order,,chennai
+Yum Me Too,"North Indian, Kebab, Burger, Wraps, Fast Food, Beverages",3.6,,₹250 for one,https://www.zomato.com/chennai/yum-me-too-kilpauk/order,,chennai
+Lazy Leopard,₹101 OFF,4.4,,₹600 for one,https://www.zomato.com/chennai/lazy-leopard-gopalapuram/order,,chennai
+Sri Anna Poorani Hotel & Catering,₹101 OFF,3.9,,₹100 for one,https://www.zomato.com/chennai/sri-anna-poorani-hotel-catering-perambur/order,,chennai
+Shawarma Spot,₹101 OFF,3.4,,₹100 for one,https://www.zomato.com/chennai/shawarma-spot-6-royapuram/order,,chennai
+Hungry Panda,₹101 OFF,4.0,,₹200 for one,https://www.zomato.com/chennai/hungry-panda-2-nungambakkam/order,,chennai
+Agarwal's Desi Khana Khazana,₹101 OFF,4.5,,₹200 for one,https://www.zomato.com/chennai/agarwals-desi-khana-khazana-kilpauk/order,,chennai
+Erode Amman Mess,₹101 OFF,4.3,,₹300 for one,https://www.zomato.com/chennai/erode-amman-mess-t-nagar/order,,chennai
+G.R Chats & Foods,₹101 OFF,4.0,,₹100 for one,https://www.zomato.com/chennai/g-r-chats-foods-purasavakkam/order,,chennai
+Navrang Restaurant,₹101 OFF,4.2,,₹400 for one,https://www.zomato.com/chennai/navrang-restaurant-royapettah/order,,chennai
