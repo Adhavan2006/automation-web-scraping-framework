@@ -1,12 +1,16 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import NoSuchElementException, TimeoutException
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import csv
 import json
 import random
+
+# -------------------------------
+# SAFE FIND FUNCTIONS
+# -------------------------------
 
 def findtext(element, by, selector):
     try:
@@ -20,97 +24,95 @@ def find(element, by, selector, attr):
     except NoSuchElementException:
         return ""
 
+# -------------------------------
+# AUTO SCROLL
+# -------------------------------
 
-def scroll(driver, max_scrolls=5):
+def scroll(driver):
     last_height = driver.execute_script("return document.body.scrollHeight")
-    scroll_count = 0
 
-    while scroll_count < max_scrolls:
+    while True:
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(random.uniform(1, 2))
+
         new_height = driver.execute_script("return document.body.scrollHeight")
+
         if new_height == last_height:
             break
+
         last_height = new_height
-        scroll_count += 1
 
+# -------------------------------
+# SCRAPER FUNCTION
+# -------------------------------
 
-def scrape(URL, max_scrolls=5):
+def scrape(URL):
+
     options = webdriver.ChromeOptions()
+    options.add_argument("--headless")
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument("user-agent=Mozilla/5.0")
-    options.add_argument("--headless")  # optional: run in headless mode
 
     driver = webdriver.Chrome(options=options)
     wait = WebDriverWait(driver, 10)
 
     driver.get(URL)
+    time.sleep(3)
 
-    # Close login popup if present
+    # Close login popup
     try:
-        close_btn = driver.find_element(By.XPATH, "//button[contains(text(),'✕')]")
-        close_btn.click()
-    except Exception:
+        driver.find_element(By.XPATH, "//button[contains(text(),'✕')]").click()
+    except:
         pass
 
     all_data = []
-    scroll_count = 0
+    seen_names = set()
 
-    while scroll_count < max_scrolls:
+    while True:
         try:
             wait.until(EC.presence_of_element_located((By.CLASS_NAME, "sc-evWYkj")))
-            scroll(driver, max_scrolls=1)  # scroll once per loop
 
-            products = driver.find_elements(By.CLASS_NAME, "sc-evWYkj")
+            scroll(driver)
+            time.sleep(2)
 
-            if not products:
-                print("No more products found. Stopping scrape.")
-                break
+            restaurants = driver.find_elements(By.CLASS_NAME, "sc-evWYkj")
 
-            # Track how many new products were added this iteration
-            before_count = len(all_data)
+            for r in restaurants:
 
-            for product in products:
-                restuarant_name = findtext(product, By.CLASS_NAME, "sc-1hp8d8a-0")
-                if restuarant_name == "":
+                name = findtext(r, By.CLASS_NAME, "sc-1hp8d8a-0")
+                if name == "":
                     continue
-                cuisine = findtext(product, By.CLASS_NAME, "sc-1hez2tp-0")
-                rating = findtext(product, By.CLASS_NAME, "sc-1q7bklc-1")
-                delivery_time = findtext(product, By.CLASS_NAME, "min-basic-info-right")
-                cost = findtext(product, By.CLASS_NAME, "fIHvpg")
-                restuarant_link = find(product, By.TAG_NAME, "a", "href")
-                image_url = find(product, By.TAG_NAME, "img", "src")
-                location = "chennai"
 
-                # Avoid duplicates by checking if restaurant already added
-                if any(d["restuarant_name"] == restuarant_name for d in all_data):
+                if name in seen_names:
                     continue
+
+                seen_names.add(name)
+
+                cuisine = findtext(r, By.CLASS_NAME, "sc-1hez2tp-0")
+                rating = findtext(r, By.CLASS_NAME, "sc-1q7bklc-1")
+                delivery_time = findtext(r, By.CLASS_NAME, "min-basic-info-right")
+                cost = findtext(r, By.CLASS_NAME, "fIHvpg")
+                link = find(r, By.TAG_NAME, "a", "href")
+                image = find(r, By.TAG_NAME, "img", "src")
 
                 all_data.append({
-                    "restuarant_name": restuarant_name,
+                    "restaurant_name": name,
                     "cuisine": cuisine,
                     "rating": rating,
                     "delivery_time": delivery_time,
                     "cost": cost,
-                    "restuarant_link": restuarant_link,
-                    "image_url": image_url,
-                    "location": location
+                    "restaurant_link": link,
+                    "image_url": image,
+                    "location": "Chennai"
                 })
 
-            after_count = len(all_data)
-            new_items = after_count - before_count
+            print(f"Scraped {len(all_data)} restaurants so far...")
 
-            print(f"Scraped {after_count} products so far... (+{new_items} new)")
-
-            if new_items == 0:
-                print("No new products loaded. Ending scrape.")
-                break
-
-            scroll_count += 1
+            break   # Zomato loads everything via scroll only (no next page)
 
         except Exception as e:
             driver.save_screenshot("error.png")
-            print("Error during scraping:", e)
+            print("Error:", e)
             break
 
     driver.quit()
@@ -121,16 +123,20 @@ def scrape(URL, max_scrolls=5):
 # -------------------------------
 
 def main():
+
     URL = "https://www.zomato.com/chennai/delivery"
-    data = scrape(URL, max_scrolls=10)
+    data = scrape(URL)
 
     if not data:
-        print("No data scraped. Exiting without saving files.")
+        print("No data scraped.")
         return
 
     # Save CSV
     with open("zomato_products.csv", "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=data[0].keys())
+        writer = csv.DictWriter(
+            f,
+            fieldnames=data[0].keys()
+        )
         writer.writeheader()
         writer.writerows(data)
 
